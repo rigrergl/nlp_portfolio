@@ -7,6 +7,6 @@ Introduction document summarizing historical and current approaches to NLP, as w
 You can see the [document here](Overview_of_NLP.pdf)
 
 ## Program 1
-//TODO: description, add links
+Simple program to get used to text processing in python
 
-You can see the [code here]() and a [descriptive document here]()
+You can see the [code here](Assignment1/main.py) and a [descriptive document here](Assignment1/readme.md)
