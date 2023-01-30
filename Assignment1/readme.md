@@ -9,8 +9,8 @@ For input fields that are not in a correct format, the program outputs and error
 ## How to run it
 Requirements:
 - Python 3 or above interpreter installed on computer
-- [`main.py`](Assignment1/main.py) source file 
-- `data.csv` file
+- [`main.py`](main.py) source file 
+- [`data.csv`](data/data.csv) file
 
 Steps:
 1. `cd` into the same directory as `main.py`
