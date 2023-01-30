@@ -10,7 +10,7 @@ Assumptions:
 import sys
 import pathlib
 import re
-
+import pickle
 
 class Employee:
     def __init__(self, last, first, mi, emp_id, phone):
@@ -21,7 +21,7 @@ class Employee:
         self.phone = phone
 
     def display(self):
-        print("Employee id: ", self.emp_id)
+        print("Employee id:", self.emp_id)
         print("\t", self.first, self.mi, self.last)
         print("\t", self.phone, "\n")
 
@@ -97,4 +97,14 @@ if __name__ == '__main__':
 
     # Generate Employee objects from input data
     employees = gen_employees(text_in[1:])  # ignoring header lines
-    print(employees)
+
+    # Pickle the employees
+    pickle.dump(employees, open('employees.pickle', 'wb'))
+
+    # read the pickle back in
+    employees_in = pickle.load(open('employees.pickle', 'rb'))
+
+    # output employees
+    print("\n\nEmployee list:\n")
+    for obj_id in employees_in.keys():
+        employees_in[obj_id].display()
