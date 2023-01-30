@@ -54,6 +54,27 @@ def gen_employees(text_in_list):  # TODO
             emp_id = input("Please enter a valid ID: ")
             m = re.match(r'^[a-zA-Z]{2}\d{4}$', emp_id)
 
+        # modify phone number if necessary
+        is_phone_in_dash_format = False
+        while not is_phone_in_dash_format:
+            dot_format_match = re.match(r'^[0-9]{3}\.[0-9]{3}\.[0-9]{4}$', phone)    # xxx.xxx.xxxx
+            space_format_match = re.match(r'^[0-9]{3}\s[0-9]{3}\s[0-9]{4}$', phone)  # xxx xxx xxxxx
+            all_together_format_match = re.match(r'^[0-9]{10}$', phone)              # xxxxxxxxxx
+            dash_format_match = re.match(r'^[0-9]{3}-[0-9]{3}-[0-9]{4}$', phone)     # xxx-xxx-xxxx
+
+            if dash_format_match:
+                is_phone_in_dash_format = True
+            elif dot_format_match:
+                phone = re.sub(r'\.', '-', phone)
+            elif space_format_match:
+                phone = re.sub(r'\s', '-', phone)
+            elif all_together_format_match:
+                phone = phone[:3] + '-' + phone[3:6] + '-' + phone[6:]
+            else:
+                print("Phone", phone, "is invalid")
+                print("Enter phone number in form 123-456-7890")
+                phone = input("Enter phone number:")
+
     return result
 
 
