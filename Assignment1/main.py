@@ -5,6 +5,7 @@ Rigre Garciandia
 Assumptions:
     - I decided to rename the class Person detailed in the instructions to Employee for naming consistency
     - To avoid a conflict with built-in name 'id', I renamed the field in the instructions to 'emp_id'
+    - If input file contains duplicate IDs, I will not ask the user to correct it, just print an error message
 """
 import sys
 import pathlib
@@ -75,6 +76,11 @@ def gen_employees(text_in_list):  # TODO
                 print("Enter phone number in form 123-456-7890")
                 phone = input("Enter phone number:")
 
+        if emp_id not in result:
+            result[emp_id] = Employee(last, first, mi, emp_id, phone)
+        else:
+            print("Error: ID", emp_id, "is repeated in the input file")
+
     return result
 
 
@@ -91,3 +97,4 @@ if __name__ == '__main__':
 
     # Generate Employee objects from input data
     employees = gen_employees(text_in[1:])  # ignoring header lines
+    print(employees)
