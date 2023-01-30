@@ -27,7 +27,12 @@ class Employee:
         print("\t", self.phone, "\n")
 
 
-def gen_employees(text_in_list):  # TODO
+def gen_employees(text_in_list):
+    """
+    Generates Employee objects based on the input strings. Asks user for manual corrections if needed
+    :param text_in_list: list of input entries
+    :return: a dictionary of Employee objects generated from the input strings
+    """
     if not text_in_list:
         raise Exception("input must not be empty")
     if not type(text_in_list) == list:
