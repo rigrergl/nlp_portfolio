@@ -12,6 +12,7 @@ import pathlib
 import re
 import pickle
 
+
 class Employee:
     def __init__(self, last, first, mi, emp_id, phone):
         self.last = last
@@ -58,10 +59,10 @@ def gen_employees(text_in_list):  # TODO
         # modify phone number if necessary
         is_phone_in_dash_format = False
         while not is_phone_in_dash_format:
-            dot_format_match = re.match(r'^[0-9]{3}\.[0-9]{3}\.[0-9]{4}$', phone)    # xxx.xxx.xxxx
+            dot_format_match = re.match(r'^[0-9]{3}\.[0-9]{3}\.[0-9]{4}$', phone)  # xxx.xxx.xxxx
             space_format_match = re.match(r'^[0-9]{3}\s[0-9]{3}\s[0-9]{4}$', phone)  # xxx xxx xxxxx
-            all_together_format_match = re.match(r'^[0-9]{10}$', phone)              # xxxxxxxxxx
-            dash_format_match = re.match(r'^[0-9]{3}-[0-9]{3}-[0-9]{4}$', phone)     # xxx-xxx-xxxx
+            all_together_format_match = re.match(r'^[0-9]{10}$', phone)  # xxxxxxxxxx
+            dash_format_match = re.match(r'^[0-9]{3}-[0-9]{3}-[0-9]{4}$', phone)  # xxx-xxx-xxxx
 
             if dash_format_match:
                 is_phone_in_dash_format = True
