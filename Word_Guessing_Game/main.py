@@ -1,8 +1,8 @@
 import sys
-import os
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('wordnet')
 
 
 def main():
@@ -31,7 +31,15 @@ def preprocess_raw_text(raw_text):
     # Tokenize text
     tokens = nltk.word_tokenize(raw_text.lower())
     tokens = [t for t in tokens if t.isalpha() and t not in stop_words and len(t) > 5]
-    print(len(tokens))
+
+    # Lemmatize the tokens
+    wnl = nltk.stem.WordNetLemmatizer()
+    lemmas = [wnl.lemmatize(t) for t in tokens]
+
+    # Make a list of unique lemmas
+    lemmas_unique = list(set(lemmas))
+    print(len(lemmas_unique))
+    print(len(lemmas))
 
     return None, None
 
