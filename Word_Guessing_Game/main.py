@@ -45,12 +45,58 @@ def main():
         print(noun, ":", vocab[noun])
     print("\n")
 
+    play_guessing_game(top_50_nouns)
+
+
+def play_guessing_game(word_bank):
     random_i = randint(0, 49)
-    play_guessing_game(top_50_nouns[random_i])
+    word = word_bank[random_i]
+
+    score = 5
+    word_display = ["_"] * len(word)
+
+    print("Let's play a word guessing game!")
+    while score >= 0:
+        if "_" not in word_display:
+            print("You solved it!\n")
+            print("Current score:", score, "\n")
+            print("Guess another word")
+            random_i = randint(0, 49)
+            word = word_bank[random_i]
+            word_display = ["_"] * len(word)
+            continue
+
+        print_word_display(word_display)
+        guess = input("Guess a letter: ")
+        if guess == "!":
+            break
+
+        indices = get_indices_of_char(word, guess)
+        if indices:
+            print("Right! Score is", score)
+            for i in indices:
+                word_display[i] = guess
+        else:
+            score -= 1
+            print("Sorry, guess again. Score is", score)
+
+        if score < 0:
+            print("Sorry, you're all out of points. Game over :(")
 
 
-def play_guessing_game(chosen_word):
-    print(chosen_word)
+def get_indices_of_char(word, char):
+    indices = []
+    for i in range(len(word)):
+        if word[i] == char:
+            indices.append(i)
+    return indices
+
+def print_word_display(guess):
+    result = ""
+    for c in guess:
+        result += c + " "
+    print(result)
+
 
 def preprocess_raw_text(raw_text):
     stop_words = nltk.corpus.stopwords.words('english')
