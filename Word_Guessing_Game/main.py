@@ -3,6 +3,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
 
 
 def main():
@@ -19,7 +20,7 @@ def main():
     # Calculate Lexical Diversity
     tokens = nltk.word_tokenize(text.lower())
     token_set = set(tokens)
-    print("Lexical Diversity: %.2f" % (len(token_set) / len(tokens)))
+    print("Lexical Diversity: %.2f\n" % (len(token_set) / len(tokens)))
 
     # preprocess raw text
     tokens, nouns = preprocess_raw_text(text)
@@ -38,8 +39,11 @@ def preprocess_raw_text(raw_text):
 
     # Make a list of unique lemmas
     lemmas_unique = list(set(lemmas))
-    print(len(lemmas_unique))
-    print(len(lemmas))
+
+    # POS tagging on unique lemmas
+    pos_tags = nltk.pos_tag(tokens)
+    print("First 20 POS tags on unique lemmas:")
+    print(pos_tags[:20], "\n")
 
     return None, None
 
