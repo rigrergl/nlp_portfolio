@@ -1,5 +1,6 @@
 import sys
 import nltk
+from random import randint
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -33,7 +34,14 @@ def main():
     print("Top 50 Nouns: ")
     for noun in top_50_nouns:
         print(noun, ":", vocab[noun])
+    print("\n")
 
+    random_i = randint(0, 49)
+    play_guessing_game(top_50_nouns[random_i])
+
+
+def play_guessing_game(chosen_word):
+    print(chosen_word)
 
 def preprocess_raw_text(raw_text):
     stop_words = nltk.corpus.stopwords.words('english')
