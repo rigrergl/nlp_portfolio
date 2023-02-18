@@ -45,7 +45,14 @@ def preprocess_raw_text(raw_text):
     print("First 20 POS tags on unique lemmas:")
     print(pos_tags[:20], "\n")
 
-    return None, None
+    # Create a list of only those lemmas that are nouns
+    nouns = [tag[0] for tag in pos_tags if tag[1][0] == 'N']
+
+    # Print number of tokens and number of nouns
+    print("Number of tokens:", len(tokens))
+    print("Number of nouns:", len(nouns))
+
+    return tokens, nouns
 
 
 if __name__ == "__main__":
