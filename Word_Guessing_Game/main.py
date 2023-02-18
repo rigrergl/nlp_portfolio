@@ -6,6 +6,13 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
 
+'''
+Assumptions:
+    - In the preprocessing method, I made the decision to return lemmatized tokens rather than the tokens specified in step a
+        of the instructions. I made this decisions because to me it makes more sense to count noun frequency using the lemmatized tokens 
+        of the original text, since the unique nouns list is generated using the lemmatized version of the tokens
+'''
+
 
 def main():
     # check args
