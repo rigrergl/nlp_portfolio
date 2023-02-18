@@ -23,7 +23,7 @@ def main():
     print("Lexical Diversity: %.2f\n" % (len(token_set) / len(tokens)))
 
     # preprocess raw text
-    tokens, nouns = preprocess_raw_text(text)
+    lemmatized_tokens, nouns = preprocess_raw_text(text)
 
 
 def preprocess_raw_text(raw_text):
@@ -35,13 +35,13 @@ def preprocess_raw_text(raw_text):
 
     # Lemmatize the tokens
     wnl = nltk.stem.WordNetLemmatizer()
-    lemmas = [wnl.lemmatize(t) for t in tokens]
+    lemmatized_tokens = [wnl.lemmatize(t) for t in tokens]
 
     # Make a list of unique lemmas
-    lemmas_unique = list(set(lemmas))
+    lemmas_unique = list(set(lemmatized_tokens))
 
     # POS tagging on unique lemmas
-    pos_tags = nltk.pos_tag(tokens)
+    pos_tags = nltk.pos_tag(lemmas_unique)
     print("First 20 POS tags on unique lemmas:")
     print(pos_tags[:20], "\n")
 
@@ -49,10 +49,10 @@ def preprocess_raw_text(raw_text):
     nouns = [tag[0] for tag in pos_tags if tag[1][0] == 'N']
 
     # Print number of tokens and number of nouns
-    print("Number of tokens:", len(tokens))
+    print("Number of tokens:", len(lemmatized_tokens))
     print("Number of nouns:", len(nouns))
 
-    return tokens, nouns
+    return lemmatized_tokens, nouns
 
 
 if __name__ == "__main__":
