@@ -25,6 +25,15 @@ def main():
     # preprocess raw text
     lemmatized_tokens, nouns = preprocess_raw_text(text)
 
+    # Get the 50 most common nouns
+    vocab = {n: lemmatized_tokens.count(n) for n in nouns}
+    sorted_vocab = sorted(vocab, key=vocab.get, reverse=True)
+    top_50_nouns = sorted_vocab[:50]
+
+    print("Top 50 Nouns: ")
+    for noun in top_50_nouns:
+        print(noun, ":", vocab[noun])
+
 
 def preprocess_raw_text(raw_text):
     stop_words = nltk.corpus.stopwords.words('english')
@@ -50,7 +59,7 @@ def preprocess_raw_text(raw_text):
 
     # Print number of tokens and number of nouns
     print("Number of tokens:", len(lemmatized_tokens))
-    print("Number of nouns:", len(nouns))
+    print("Number of nouns:", len(nouns), "\n")
 
     return lemmatized_tokens, nouns
 
