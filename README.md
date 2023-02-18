@@ -15,4 +15,4 @@ You can see the [code here](Assignment1/main.py) and a [descriptive document her
 Program to get used to Part of Speech (POS) tagging with NLTK. Also includes a hangman-style word guessing game that chooses a word at random from the 50 most common lemmas occurring in the text.
 
 
-You can see the [code here](Word_Guessing_Game/main.py).
+You can see the [code here](Word_Guessing_Game/main.py) and instruction on how to run it [here](Word_Guessing_Game/readme.md)
