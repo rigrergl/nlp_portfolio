@@ -10,7 +10,9 @@ nltk.download('averaged_perceptron_tagger')
 Assumptions:
     - In the preprocessing method, I made the decision to return lemmatized tokens rather than the tokens specified in step a
         of the instructions. I made this decisions because to me it makes more sense to count noun frequency using the lemmatized tokens 
-        of the original text, since the unique nouns list is generated using the lemmatized version of the tokens
+        of the original text, since the unique nouns list is generated using the lemmatized version of the tokens. In my experiments, counting 
+        noun frequencies this way (grouping all nouns that have the same lemma), also made the frequency counts more consistent, alleviating
+        the randomness of the Part of Speech (POS) tagger.
 '''
 
 
