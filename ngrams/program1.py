@@ -22,11 +22,29 @@ def gen_ngrams(filename):
     unigrams = word_tokenize(text)
     bigrams = list(ngrams(unigrams, 2))
 
-    print(bigrams[:200])
+    # create dict of bigram counts
+    bigram_dict = {b: bigrams.count(b) for b in set(bigrams)}
 
-    return None, None
+    # create dict of unigram counts
+    unigram_dict = {u: unigrams.count(u) for u in set(unigrams)}
+
+    return bigram_dict, unigram_dict
 
 
 if __name__ == '__main__':
     bigram_dict_en, unigram_dict_en = gen_ngrams('LangId.train.English')
 
+    count = 0
+    for key, value in bigram_dict_en.items():
+        if count >= 20:
+            break
+        print(key, value)
+        count += 1
+
+    print()
+    count = 0
+    for key, value in unigram_dict_en.items():
+        if count >= 20:
+            break
+        print(key, value)
+        count += 1
