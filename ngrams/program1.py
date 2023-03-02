@@ -1,4 +1,5 @@
 import pathlib
+import pickle
 
 import nltk
 from nltk import word_tokenize
@@ -13,7 +14,7 @@ def gen_ngrams(filename):
 
     # read text and remove newlines
     file_path = data_folder / filename
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', encoding="utf8") as f:
         text = f.read()
 
     text = text.replace("\n", "")
@@ -33,18 +34,15 @@ def gen_ngrams(filename):
 
 if __name__ == '__main__':
     bigram_dict_en, unigram_dict_en = gen_ngrams('LangId.train.English')
+    bigram_dict_fr, unigram_dict_fr = gen_ngrams('LangId.train.French')
+    bigram_dict_it, unigram_dict_it = gen_ngrams('LangId.train.Italian')
 
-    count = 0
-    for key, value in bigram_dict_en.items():
-        if count >= 20:
-            break
-        print(key, value)
-        count += 1
+    pickle.dump(bigram_dict_en, open('bigram_dict_en', 'wb'))
+    pickle.dump(unigram_dict_en, open('unigram_dict_en', 'wb'))
 
-    print()
-    count = 0
-    for key, value in unigram_dict_en.items():
-        if count >= 20:
-            break
-        print(key, value)
-        count += 1
+    pickle.dump(bigram_dict_fr, open('bigram_dict_fr', 'wb'))
+    pickle.dump(unigram_dict_fr, open('unigram_dict_fr', 'wb'))
+
+    pickle.dump(bigram_dict_it, open('bigram_dict_it', 'wb'))
+    pickle.dump(unigram_dict_it, open('unigram_dict_it', 'wb'))
+
