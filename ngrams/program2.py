@@ -33,6 +33,7 @@ def calc_lang_prob(line):
 
     return p_laplace_en, p_laplace_fr, p_laplace_it
 
+
 def compute_accuracy(output, solution):
     if len(output) != len(solution):
         print('Error: output and solution files do no have the same length')
@@ -46,7 +47,6 @@ def compute_accuracy(output, solution):
 
     print()
     print(f'Accuracy = {1 - (incorrect_count / len(output))}')
-
 
 
 if __name__ == '__main__':
