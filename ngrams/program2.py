@@ -33,6 +33,21 @@ def calc_lang_prob(line):
 
     return p_laplace_en, p_laplace_fr, p_laplace_it
 
+def compute_accuracy(output, solution):
+    if len(output) != len(solution):
+        print('Error: output and solution files do no have the same length')
+
+    print('Incorrectly classified lines: ')
+    incorrect_count = 0
+    for i, (out_line, sol_line) in enumerate(zip(output, solution)):
+        if out_line != sol_line:
+            print(i + 1)
+            incorrect_count = incorrect_count + 1
+
+    print()
+    print(f'Accuracy = {1 - (incorrect_count / len(output))}')
+
+
 
 if __name__ == '__main__':
     # Get English dictionaries
@@ -48,15 +63,29 @@ if __name__ == '__main__':
     unigram_dict_it = pickle.load(open('unigram_dict_it', 'rb'))
 
     # Read in test file
-    with open(pathlib.Path.cwd().joinpath('data').joinpath('LangId.test'), encoding='utf8') as f:
+    with open(pathlib.Path.cwd().joinpath('data', 'LangId.test'), encoding='utf8') as f:
         test_text = f.read().splitlines()
+
+    line_num = 1
+    output_file = open('wordLangId.out', 'w')
 
     for test_line in test_text:
         en_prob, fr_prob, it_prob = calc_lang_prob(test_line)
-        if en_prob > fr_prob and en_prob > it_prob:
-            print('English')
-        elif fr_prob > it_prob:
-            print('French')
-        else:
-            print('Italian')
 
+        if en_prob > fr_prob and en_prob > it_prob:
+            output_file.write(f'{line_num} English\n')
+        elif fr_prob > it_prob:
+            output_file.write(f'{line_num} French\n')
+        else:
+            output_file.write(f'{line_num} Italian\n')
+
+        line_num = line_num + 1
+
+    output_file.close()
+
+    with open(pathlib.Path.cwd().joinpath('wordLangId.out'), 'r') as out:
+        out_lines = out.read().splitlines()
+    with open(pathlib.Path.cwd().joinpath('data', 'LangId.sol'), 'r') as sol:
+        sol_lines = sol.read().splitlines()
+
+    compute_accuracy(out_lines, sol_lines)
