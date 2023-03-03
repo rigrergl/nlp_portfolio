@@ -18,5 +18,14 @@ You can see the [code here](Word_Guessing_Game/main.py) and instruction on how t
 
 
 ## WordNet
-Assign to demonstrate skills in WordNet and SentiWordNet, as well as finding collocations. Notebook can be found [here](NLP_WordNet.ipynb)
+Assignment to demonstrate skills in WordNet and SentiWordNet, as well as finding collocations. Notebook can be found [here](NLP_WordNet.ipynb)
+
+## Ngrams
+Assignment to gain experience in creating ngrams from text and building a language model from ngrams, as well as to reflect on the utility of ngram language models
+
+[program1](ngrams/program1.py) generate the unigram and bigram dicts for the given English, French, and Italian training sets. It then pickles these dictionaries so that they can be used by program2.
+
+[program2](ngrams/program2.py) uses unpickles the dictionaries created by program1 and uses them to compute the most likely language for each line in the test data set. It then computes the accuracy using the solutions set. 
+
+The [narrative](ngrams/Narrative.pdf) provides a reflection on ngrams and the utility of ngram language models.
 
