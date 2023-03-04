@@ -29,3 +29,8 @@ Assignment to gain experience in creating ngrams from text and building a langua
 
 The [narrative](ngrams/Narrative.pdf) provides a reflection on ngrams and the utility of ngram language models.
 
+## Sentence Parsing
+Assignment to understand concepts related to sentence syntax, understand the 3 types of sentence parses (PSG, dependency, and SRL), and to be able to use syntax parsers
+
+The document for this assignment can be found [here](Sentence-Parsing.pdf)
+
