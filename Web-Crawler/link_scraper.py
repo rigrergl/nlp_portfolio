@@ -1,10 +1,34 @@
 # from bs4 import BeautifulSoup
 import requests
+import pathlib
 from bs4 import BeautifulSoup
 from collections import deque
 
-def is_good_url(url):
-    return True # TODO
+
+def clean_url(url):
+    """
+    Returns a clean version of the URL, or None if the URL is not interesting
+
+    :param: (str) url to be cleaned
+    :return: (str) clean version of url | None if url is not interesting
+    """
+
+    if not url:
+        return None
+
+    # Clean up the URL
+    if url.startswith("/url?q="):
+        url = url[7:]
+    if "?" in url:
+        i = url.find("?")
+        url = url[:i]
+
+    # Make sure that the URL is valid and interesting
+    if url.startswith("http") and "google" not in url:
+        return url
+
+    return None
+
 
 def scrape_links(start_url, max_links=15):
     """
@@ -19,15 +43,12 @@ def scrape_links(start_url, max_links=15):
         given seed URL.
     """
 
-    # Start with a list of seed URLs
-    seed_urls = ["https://en.wikipedia.org/wiki/Vince_Gilligan"]
-
     # Initialize a deque to store the URLs to be visited
-    url_queue = deque(seed_urls)
+    url_queue = deque([start_url])
 
     selected_links = []
 
-    while url_queue and len(selected_links) < 15:
+    while url_queue and len(selected_links) < max_links:
         # pop the URL from the left end of the queue
         current_url = url_queue.popleft()
 
@@ -37,18 +58,26 @@ def scrape_links(start_url, max_links=15):
 
         # Loop through links in the current URL
         for link_element in soup.find_all('a'):
+            if len(selected_links) >= max_links:
+                break
             new_url = link_element.get('href')
-            if is_good_url(new_url):
+            new_url = clean_url(new_url)
+            if new_url:
                 selected_links.append(new_url)
+                url_queue.append(new_url)
 
     return selected_links
 
 
 def main():
+    # Scrape for links
     links = scrape_links("https://en.wikipedia.org/wiki/Vince_Gilligan")
-    print(links)
+
+    # Write the selected links to a text file
+    with open(pathlib.Path.cwd().joinpath('data', 'urls.txt'), 'w') as f:
+        for link in links:
+            f.write(link + "\n")
 
 
 if __name__ == "__main__":
     main()
-
