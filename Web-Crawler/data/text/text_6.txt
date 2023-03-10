@@ -1,0 +1,477 @@
+
+ 
+  BEGIN WAYBACK TOOLBAR INSERT  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80 captures 
+ 13 Jul 2011 - 04 Feb 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  NEXT/PREV MONTH NAV AND MONTH INDICATOR  
+ 
+ Jun 
+ JUL 
+ Aug 
+ 
+  NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR  
+ 
+ 
+ 18 
+ 
+ 
+  NEXT/PREV YEAR NAV AND YEAR INDICATOR  
+ 
+ 2010 
+ 2011 
+ 2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ success 
+ fail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   About this capture 
+ 
+ 
+ 
+ 
+ 
+ COLLECTED BY 
+ 
+ 
+ 
+		Organization:  Alexa Crawls 
+ 
+ 
+	  Starting in 1996,  Alexa Internet  has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the  Wayback Machine  after an embargo period.
+	 
+ 
+ 
+ 
+ Collection:  Alexa Crawls 
+ 
+ 
+	  Starting in 1996,  Alexa Internet  has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the  Wayback Machine  after an embargo period.
+	 
+ 
+ 
+ 
+ 
+ TIMESTAMPS 
+ 
+ 
+ 
+ 
+ 
+ The Wayback Machine - https://web.archive.org/web/20110718011532/http://www.usatoday.com:80/life/television/news/2011-07-12-breaking-bad-season-4_n.htm 
+ 
+  END WAYBACK TOOLBAR INSERT  
+  Skip Nav  
+   Skip to Main Content   
+  End Skip Nav  
+ 
+ 
+ 
+ USA TODAY 
+  EdSysObj ID="usat-masthead-label" FRAGMENTID="41449028" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223464" rberthol  
+ <h2><a href="#">Nation</a></h2>  /EdSysObj  
+  /EdSysObj  
+  EdSysObj ID="usat-masthead-search" FRAGMENTID="41370344" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223466" appadmin  
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe 
+ Mobile 
+  /EdSysObj  
+  /EdSysObj  
+  EdSysObj ID="usat-masthead-UAS" FRAGMENTID="41426986" appadmin   EdSysObj ID="SSI" FRAGMENTID="41426978" appadmin  
+ 
+  /EdSysObj  
+  /EdSysObj  
+  EdSysObj ID="usat-global-nav" FRAGMENTID="41311622" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223460" appadmin  
+ Home 
+ News 
+ Travel 
+ Money 
+ Sports 
+ Life 
+ Tech 
+ Weather 
+  /EdSysObj  
+  /EdSysObj  
+ 
+ 
+ section nav start 
+  EdSysObj ID="usat-ssts-nav" FRAGMENTID="41319104" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223468" rberthol   /EdSysObj  
+  /EdSysObj  
+  section nav end  
+ 
+ 
+ 
+ 
+  EdSysObj ID="usat-breaking-news" FRAGMENTID="41405282" rberthol  bn container  /EdSysObj  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End series_nav_bar div 
+ startclickprintinclude 
+ 
+ 
+  EdSysObj ID="SandboxLede" FRAGMENTID="49329768" newsgate  
+ 'Breaking Bad' shows man at his worst in Season 4 
+ 
+ By Scott Bowles, USA TODAY 
+ 
+ Updated   | 
+    |    
+ Share 
+ 
+ 
+ 
+ Reprints & Permissions There's something about the way Jesse Pinkman is reaching into his jacket that isn't quite threatening enough for  Vince Gilligan . 
+ 
+ 
+ 
+ 
+ Photos by Ben Leuner, , AMC 
+ Not your average family guy:  Anna Gunn and Bryan Cranston are back for another tension-filled, blood-soaked season of  Breaking Bad , which premieres Sunday (AMC, 10 p.m. ET). 
+ 
+ 
+ 
+ Enlarge Close 
+ 
+ 
+ Photos by Ben Leuner, , AMC 
+ Not your average family guy:  Anna Gunn and Bryan Cranston are back for another tension-filled, blood-soaked season of  Breaking Bad , which premieres Sunday (AMC, 10 p.m. ET). 
+ 
+ 
+ 
+ 
+ "Can we slow that down?" Gilligan says from the editing bay of his offices for  AMC 's  Breaking Bad , where the show's creator is putting the finishing touches on an episode from  Bad 's  fourth season, which premieres Sunday night (10 ET/PT). 
+ Gilligan, 44, a devotee of Westerns, leans forward at the center of three flat screens displaying the shot. 
+ The scene seems unnerving enough. Set against a sandstorm in Albuquerque, where the series is shot, Pinkman (Aaron Paul) looks like a dead man — again. He's talking big, sweating hard and doing little to rattle grizzled henchman Mike (Jonathan Banks), who ferries Pinkman to a deserted windmill. Desperate, Pinkman scans the car for something sharp. 
+ 
+ 
+ PHOTOS:  Re-introduce yourself to the 'Breaking Bad' cast 
+ 
+ 
+ "Can we Sergio Leone-y that a bit?" Gilligan says, a reference to the director of  The Good, the Bad and the Ugly  and  A Fistful of Dollars . "I'd like it to have a little more gunslinger element to it." 
+ Gilligan has been devising gun- and drug-slinging elements since he approached AMC five years ago with the idea of a high school chemistry teacher (Bryan Cranston) who discovers he has lung cancer. To secure a nest egg for his family, he cooks crystal methamphetamine with the help of a student he once flunked (Paul). 
+ Since premiering in 2008,  Breaking Bad  has become a critical darling and found some unexpected fans. Cranston became the first actor to win three straight best-dramatic-acting Emmys.  Time  magazine named it "TV's best thriller."  Demi Moore  and  Ashton Kutcher  made gossip rags when they said they marked  their fifth anniversary with a quiet night in bed watching  Breaking Bad . 
+ Other fans are getting hooked on cable crystal meth. Last year, the show averaged 2 million viewers a week. AMC's smash  Mad Men  averaged 2.5 million in its third year. 
+ So what's Gilligan's plan for this season, which picks up where Season 3 ended: with a pistol an inch from an unarmed man's face? 
+ Gilligan wants to get darker. 
+ Good luck with that. In addition to collecting statuettes,  Bad  is pushing how much violence basic cable can get away with. Consider some of the show-enders last year: a man getting his brains blown out and two dealers being flattened by Walt White's putrid  Pontiac Aztek . 
+ How do you trump that? 
+ "It's all about the heroes," says Gilligan, a Richmond, Va., native who heard the term "breaking bad" from parents clucking that a kid was raising hell. 
+ "If you look at shows like  Gunsmoke  or  M.A.S.H , both of which I loved, the only way you knew time was passing was that the actors looked older," he says. "They were the same heroes, which is comforting for people." 
+ In  Bad , "we want to make Walt White a truly bad guy. He's going from being a protagonist to an antagonist. We want to make people question who they're pulling for, and why." 
+ Cable gets more gruesome 
+ Actors have found themselves asking the same question. Paul remembers getting the script for Season 2's "Negro Y Azul," which called for a snitch to have his decapitated head mounted on a turtle emblazoned with the words "HOLA DEA." When an agent removes the head, the turtle explodes, sending body parts across the desert. 
+ "The first time I saw that, I said, 'Well, that'll never get on television,'" says Paul, who was supposed to die a gruesome death at the end of Season 1 but had become a fan favorite. "You're going to cut a guy's head off, then blow up the tortoise? Come on. How do you expect to get away with that?"  
+ Increasingly, shows are getting away with just that, particularly on AMC. In addition to  Breaking Bad , AMC's monster thriller  The  Walking Dead  has feasted on human brains and zombie guts in high-def detail. "I'm not sure anything's too graphic anymore," says actor Noah Emmerich, who had a brief stint on  Dead . "Maybe there's some sex you can't show, but the violence is like anything you'd see in the movies." 
+ Even movie stars know the leeway has swung to television.  Seth Rogen , who starred in Fox's college comedy  Undeclared , recalls rehearsing risqué or foul-mouthed scenes and thinking, "We'd never get to do that (in movies) and still have a PG-13." 
+ "Happened almost every day on set," says Rogen, who starred in his share of adult-themed films, such as  Pineapple Express  and  Superbad . "It really makes the movie ratings system a joke." 
+ It can also call into question  TV's limits. Warning: The following blood-spattered scenes could spoil  Breaking Bad  episodes for fans not up to speed — and the appetites of those who are: 
+ •In Season 3's "One Minute," a final shootout as complexly staged as a  John Cassavetes  film leaves one man with his legs snapped, another with his skull gaping and DEA Agent Hank Schrader (Dean Norris), Walt's brother-in-law, bloodied and partially paralyzed. 
+ •Later that season, in "Half Measures," Walt eliminates competition by crushing them with his car — and executing a young survivor with a pistol shot to the head. 
+ •In "Peekaboo," from Season 2, the focus is on Pinkman and includes a guy's skull getting crushed by a stolen ATM. "After that, people saw Walt and Jesse as more of a family," Gilligan says. "It became a two-person show." 
+ Whether it stays that way is anyone's guess. Where fans of, say,  MacGyver  may ask how their heroes will get out of this one,  Breaking Bad  fans ask whether they actually will. 
+ Cranston recalls Gilligan's first pitch to the actor: "Mr. Chips meets Scarface." What Cranston got was Mr. Chips meets Scarface — then strangles Scarface with a bicycle lock (from Season 1's "And the Bag's in the River"). 
+ "He doesn't worry about keeping the characters sympathetic," Cranston says. "He concentrates on keeping them real." 
+ That reality can be a bit much, even for veterans of the show. At the Los Angeles premiere of Sunday's Season 4 opener, Cranston's teenage daughter Taylor fainted at one gruesome scene, which AMC had already trimmed by three seconds to make it less sickening.  (She recovered without need for medical attention.) 
+ Its not for everyone 
+ "Sometimes, watching it, you realize it can be as brutal as the script, which seemed impossible when you first read it," Cranston says. "You've got to wonder where Vince gets his ideas." 
+ Unemployment helps. After writing 30 episodes of  The X-Files , Gilligan and former  X-Files  scribe  John Shiban  were mulling their next career moves. 
+ Gilligan suggested Walmart greeter. "We wouldn't have to take our jobs home with us," he says. Shiban suggested the two cook crystal meth in an RV and roam the country peddling. 
+ Gilligan loved the idea, conceptually speaking. He asked Shiban if he could run with it and "started pacing around, panicked in my backyard, trying to do something with this great idea." 
+ In essence, Gilligan says, he used himself as a model. "I wanted a guy, maybe middle-aged, straight arrow, suddenly faced with his world crumbling. What would you do if you really faced what Walt's facing?" 
+ Whatever White faced, Gilligan decided, it would not be without consequence. Even on  X-Files , Gilligan concedes, "I'd write a scene where (Agent) Mulder shoots somebody, and you never hear about it again. That's not what happens in real life. In real life, you have to do something with the body." 
+ Like melt it in a bathtub of acid, a scene from the first season (revisited Sunday) that proved so graphic Cranston and Paul got nauseated from the fake entrails, which Gilligan had coroners' help to make look real. 
+ "Vince wants everything to be authentic," says  Giancarlo Esposito , the icy drug kingpin who employs White and Pinkman. "They build real drug labs. They have us hold kilos." 
+ Gilligan says he was prepared for a round of rejections because he wanted the show to be an unflinching look at the drug trade from the eyes of a suburban drone. He sold the idea to Sony Pictures executives, who accompanied him to an assortment of networks. 
+ With the graphic crime stories  The Wire  and  The Sopranos  in its catalog,  HBO  passed. So did  TNT , which Gilligan expected. (He  offered it to them because he loves the network's Westerns.) 
+ Showtime was interested but said it was too similar to  Weeds , the network's show about a suburban mom who sells marijuana. 
+ "I said, 'What's  Weeds ?'" Gilligan recalls. "I must have looked like an idiot. When they told me, the blood left my face. I asked the Sony guys how they could let me pitch it. They said it sounded different enough. I said, 'What are you talking about? That's exactly the same.' If I had subscribed to Showtime, there never would have been a  Breaking Bad ." 
+ AMC president Charlie Collier says that after  Mad Men 's success, "we were getting pitched every period piece under the sun. We were looking for something modern, something that would be different than anything on basic cable television." 
+ Done, Paul says:  "I know you're not supposed to say this in television, but it's not for everyone. That's something we're really proud of." 
+  EdSysObj ID="SSI" FRAGMENTID="41603598" appadmin  For more information about  reprints & permissions , visit our FAQ's. To report corrections and clarifications, contact Standards Editor  Brent Jones . For publication consideration in the newspaper, send comments to  letters@usatoday.com . Include name, phone number, city and state for verification. To view our corrections, go to  corrections.usatoday.com .  /EdSysObj  
+ 
+ Posted   | Updated  
+ Share 
+ 
+  EdSysObj ID="SSI" FRAGMENTID="41223454" rberthol   USAT RATINGS START  
+ 
+ 
+ 
+  USAT RATINGS END  
+  /EdSysObj  
+ 
+ We've updated the Conversation Guidelines. Changes include a brief review of the moderation process and an explanation on how to use the "Report Abuse" button.  Read more . 
+ 
+ 
+ 
+ 
+ 
+  /EdSysObj  
+ endclickprintinclude 
+ 
+ /.story 
+ 
+ 
+ 
+   
+ Advertisement 
+ 
+ End rightrail ad 
+  EdSysObj ID="sidebar2" FRAGMENTID="41370894" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223472" rberthol   /EdSysObj  
+  /EdSysObj  
+  EdSysObj ID="sidebar4" FRAGMENTID="41448888" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223474" rberthol  
+ 
+ Most Popular E-mail Newsletter 
+ 
+ 
+ Sign up to get: 
+ Top viewed stories, photo galleries and community posts of the day 
+ 
+ Most popular right now: 
+ 
+ 
+ 
+  /EdSysObj  
+  /EdSysObj  
+  EdSysObj ID="sidebar6" FRAGMENTID="41449102" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223470" rberthol   /EdSysObj  
+  /EdSysObj  
+  EdSysObj ID="sidebar8" FRAGMENTID="41474260" rberthol   EdSysObj ID="SSI" FRAGMENTID="41223476" rberthol  
+ <div class="editorialPromo">
+	<h3><a href="#">15 Health myths Doctors believe</a></h3>
+	<a href="#"><img src="http://i.usatoday.net/test/redesign/inside-2010/img/editorial-promo.jpg" alt="Man with headache"/></a>				
+	<p>You're in good company if you assume that vitamin C wards off colds and munching on carrots improves vision.</p>
+	<a class="sectionLink" href="www.usatoday.com/yourlife"><span class="sectionLinkHead">Your life:</span> Health</a>
+</div>  /EdSysObj  
+  /EdSysObj  
+ 
+ 
+ 
+  EdSysObj ID="usat-footer-01" FRAGMENTID="41312930" appadmin   EdSysObj ID="SSI" FRAGMENTID="41224830" appadmin  
+ USA TODAY Digital Services 
+ 
+ Mobile 
+ E-Newsletters 
+ RSS 
+ Twitter 
+ Podcasts 
+ Widgets 
+ e-Edition 
+  USA TODAY for iPad 
+ Kindle Edition 
+ Print Edition 
+ Subscribe to paper 
+ 
+ 
+ Reprints & Permissions 
+ USA TODAY Topics 
+ Reporter Index 
+ Corrections/Clarifications 
+ Contact Us 
+ Archives 
+ 
+    /EdSysObj  
+  /EdSysObj  
+ 
+ 
+ 
+  EdSysObj ID="usat-footer-02" FRAGMENTID="41312222" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223458" rberthol  
+ 
+ Home 
+ News 
+ Travel 
+ Money 
+ Sports 
+ Life 
+ Tech 
+ Weather 
+ 
+ 
+ Visit our Partners: 
+ USA WEEKEND 
+ USA TODAY LIVE 
+ Sports Weekly 
+ Education 
+ Space.com 
+ Travel Tips 
+ 
+ 
+ 
+ Contact us 
+ Advertise 
+ Pressroom 
+ Media Lounge 
+ Jobs 
+ FAQ 
+ Reprints/Permissions 
+ Privacy Notice/Your California Privacy Rights 
+ Ad Choices 
+ Terms of Service 
+ Site Index 
+ 
+ © 2011 USA TODAY, a division of  Gannett Co. Inc.  /EdSysObj  
+  /EdSysObj  
+ 
+ 
+ 
+ 
+  EdSysObj ID="footer_usat_content" FRAGMENTID="41475024" appadmin   EdSysObj ID="SSI" FRAGMENTID="41789822" appadmin  
+ <div id="finishedArticleLoader">
+		<a id="hideShareBar2" href="javascript: showHideBar2();">Hide</a>
+		<div class="content">
+			<div id="loaderLtCol">
+				<h1>Latest Stories in <script type="text/javascript">document.write(blocks.section);</script>:</h1>
+				<ul id="lateststorieslist"></ul>
+			</div>
+			<div id="loaderMidCol">
+				<h1>Latest Photo Galleries:</h1>
+				<div id="MediaCollectionTagCloud_TagCloudDiv" class="tag-cloud"></div>
+			</div>
+			<div id="loaderRtCol">
+				<h1>Popular Topics:</h1>
+				<ul id="topicsLinks"></ul>
+			</div>
+			<a id="closeBox"></a>
+		</div>
+	</div> 
+   Hide 
+ 
+ 
+ 
+  Add THIS 
+ 
+ 
+ Share 
+ 
+ 
+ 
+  FACEBOOK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End leftShareContent div 
+ 
+ 
+ 
+ Fan and follow us: 
+ 
+   USA TODAY on Facebook   
+   USA TODAY on Twitter   
+   USA TODAY RSS   
+ 
+ 
+ 
+ 
+ End rightShareContent  
+ End bottomShareBar  
+ End shareBarWrapper  
+ 
+  /EdSysObj  
+  /EdSysObj  
+ End toggleContent div 
+ 
+ End content div 
+ 
+ End custom-doc div 
+  EdSysObj ID="script_container4" FRAGMENTID="41312048" appadmin   EdSysObj ID="SSI" FRAGMENTID="41223456" appadmin  [if IE 6]>
+<script type="text/javascript" src="http://i.usatoday.net/_common/_scripts/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.usat_masthead h1 a, .pre-nav .search, .arrow, #closeBox, a.tab-photos, a.tab-videos, .printIcon, .saveIcon');
+</script>
+<![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+  Story Recommends  
+ 
+ Start Pluck 4  
+ 
+ 
+ [if IE 6]><link rel="stylesheet" type="text/css" href="http://sitelife.usatoday.com/ver1.0/content/ua/css/pluckAll.ie6.css" /><![endif] 
+    CSS overrides  
+  js refresh pluck widget on login/out  and drops cookie for sort order  
+ 
+ 
+  End Pluck 4  
+ 
+  AddThis  
+ 
+ 
+ 
+  /EdSysObj  
+  /EdSysObj  
+ 
+ 

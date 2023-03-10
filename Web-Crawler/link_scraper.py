@@ -4,6 +4,10 @@ import pathlib
 from bs4 import BeautifulSoup
 from collections import deque
 
+"""
+    Gets relevant links and outputs them to a file
+"""
+
 
 def clean_url(url):
     """
@@ -36,7 +40,7 @@ def clean_url(url):
     return None
 
 
-def scrape_links(start_url, max_links=15):
+def scrape_links(start_url, max_links=40):
     """
     Scrape links from web pages starting from a given seed URL.
 

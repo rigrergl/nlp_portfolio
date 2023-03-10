@@ -1,0 +1,440 @@
+<![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if lte IE 8 ]>
+		<link rel="stylesheet" href="http://grantland.com/wp-content/themes/espn-grantland/css/lte-ie8.css"/>
+		<![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    id="home"  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  Begin .header  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ Search 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ Menu 
+ Search 
+ 
+  End .header  
+ 
+ 
+ Features 
+ The Triangle 
+ The Hollywood Prospectus 
+ Contributors 
+ Podcasts 
+ Video 
+ Quarterly 
+ ESPN.com 
+ 
+  /.nav-inner  
+ end .nav  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ➤
+						 
+ 
+ 
+ 
+ 
+ 
+   Previous 
+ Roger Clemens Gets Old-Time Religion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ➤
+						 
+ 
+ 
+ 
+ 
+ 
+   Next 
+ Trade Deadline Power Rankings: Part 2, the Victors 
+ 
+ 
+ 
+ 
+ 
+ Ben Leuner/AMC 
+ 
+  .feature  
+ 
+ 
+ 
+ Facebook 
+ Twitter 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ Breaking Bad 
+ Bad Decisions 
+ 
+					Why AMC's  Breaking Bad  beats  Mad Men ,  The Sopranos , and  The Wire .						 
+ by   Chuck Klosterman  on August 2, 2011 
+ 
+ 
+ 
+ 
+ 
+ T hough some may disagree (and I’m sure some will, because some always do), there doesn’t seem to be much debate over what have been the four best television shows of the past 10 years. It seems like an easy question to answer, particularly since it’s become increasingly difficult to write about the state of TV (or even the state of popular culture) without tangentially mentioning one of the following four programs —  The Sopranos ,  The Wire ,  Mad Men , and/or  Breaking Bad . The four fit together so nicely: Two from HBO that are defunct, two from AMC that are on-going, and all of which use nonlinear narratives with only minor experimentation. There have been bushels of quality television during the past decade, but these four shows have been the best 1  (and by a relatively wide margin). Taste is subjective, but the critical consensus surrounding these four dramas is so widespread that it feels like an objective truth; it’s become so accepted that this entire paragraph is a remarkably mundane argument to make in public. I’m basically writing, “The greatness of these great shows is defined by their greatness.” There’s no conflict in stating that good things are good. 
+ Until, of course, you try to suggest that one of these shows is somehow better than the other three. Then it becomes a fucking bloodbath. 
+ Because TV is so simultaneously personal (it exists inside your home) and so utterly universal (it exists inside everyone’s home), people care about it with an atypical brand of conversational ferocity — they take it more personally than other forms of art, and they immediately feel comfortable speaking from a position of expertise. They develop loyalties to certain characters and feel offended when those loyalties are disparaged. This is what makes arguing about these particular shows so intense and satisfying — even though most serious TV watchers enjoy (or at least appreciate) all four, they habitually feel a greater internal obligation to advocate the superiority of whichever title they love most. As a result, you hear people making damning, melodramatic criticisms of TV shows they ostensibly like. You hear a lot of sentences that begin, “I love  Mad Men , but …” or “The first two seasons of  The Sopranos  were great, but …” And whatever follows that “but” is inevitably crazy and hyperspecific. This is especially true among people who prefer  The Wire . There’s never been a more obstinate fan base than that of  The Wire ; it’s a secular cult that refuses to accept any argument that doesn’t classify  The Wire  as the greatest artistic endeavor in television history. It’s almost as if these people secretly believe this show  actually happened , and that criticizing the storyline is like mocking an episode of  Frontline . This was not a documentary about Baltimore: Wallace is not alive and playing high school football in Texas, Stringer Bell was not reincarnated as a Pennsylvania paper salesman, and you are not qualified to lecture on inner-city education because you own Season 4 on DVD. The citizens on that show were nonexistent composites, and the events you watched did not occur. As a society, we must learn to accept this. 
+ Which is not to say  The Wire  wasn’t brilliant, because it was. Of the four shows I’ve mentioned,  The Wire  absolutely exhibited the finest writing;  Mad Men  has the most fascinating collection of character types, and  The Sopranos  was the most fully realized (and, it’s important to note, essentially invented this rarified tier of televised drama). But I’ve slowly come to the conclusion that  Breaking Bad  is the best of the four, or at least the one I like the most. 2  And I’ve been trying to figure out why I feel this way. It’s shot in the most visually creative style, but that’s not enough to set it apart; the acting is probably the best of the four, but not by a lot (and since good acting can sometimes cover deeper problems with direction and storytelling, I tend not to give it much weight). I suspect  Breaking Bad  will be the least remembered of these four shows and will probably be the least influential over time. Yet there’s one profound difference between this series and the other three, and it has to do with its handling of morality:  Breaking Bad  is the only one built on the uncomfortable premise that there’s an irrefutable difference between what’s right and what’s wrong, and it’s the only one where the characters have real control over how they choose to live. 
+ Certainly, all of these series grapple with morality — more than anything else, 3  it’s the reason they’re better than the shows around them. But the first three examples all create realities where individual agency is detached.  Mad Men  is set in the 1960s, so every action the characters make is not really a reflection on who they are; they’re mostly a commentary on the era. Don Draper is a bad husband, but “that’s just how it was in those days.” Characters can do or say whatever they want without remorse, because almost all their decisions can be excused (or at least explained) by the circumstances of the period. Roger Sterling’s depravity is a form of retrospective entertainment, so very little is at stake. 4  The people on this show need to be irresponsible for the sake of plausibility, so we can’t really hold them accountable for what they do. 
+ Now,  The Sopranos  and  The Wire  were set in the present, so the actions of their casts are harder to rationalize away — but both shows had fixed worldviews, so that process is still possible. Every important person on  The Sopranos  was involved with organized crime, and its protagonist was a (likeable) transgressor who regularly murdered for money — subsequently, there were never any unresolved questions over Tony Soprano’s “goodness.” When Tony did something nice, he did it  in spite of the fact  that (we all know) he’s fundamentally bad (otherwise he couldn’t exist as the person he was).  The Sopranos  was compelling because we were continually watching innately bad people operate within a world not unlike our own — this, in one sentence, was the crux of the series. Meanwhile,  The Wire  was more nuanced: In  The Wire , everyone is  simultaneously  good and bad. The cops are fighting crime, but they’re all specifically or abstractly corrupt; the drug dealers are violent criminals, but they’re less hypocritical and hold themselves to a higher ethical standard. There were sporadic exceptions to this rule, but those minor exceptions only served to accentuate its overall relativist take on human nature: Nobody is totally positive and nobody is totally negative, and our inherently flawed assessment of those qualities hinges on where we come from and what we want to believe. And this, of course, is closer to how life actually is (which is why  The Wire  felt so realistic). It’s a more sophisticated way to depict the world. However — from a fictional, narrative perspective — it ends up making the message a little less meaningful. 5  If nothing is totally false, everything is partially true; depending on the perspective and the circumstance, no action is unacceptable. The conditions matter more than the participants. As we drift further and further from its 2008 finale, it increasingly feels like the ultimate takeaway from  The Wire  was more political 6  than philosophical. Which is not exactly a criticism, because that’s an accomplishment, too … it’s just that it turns the plot of  The Wire  into a delivery mechanism for David Simon’s polemic worldview (which makes its value dependent on how much the audience is predisposed to agree with him). 
+ This is where  Breaking Bad  diverges from the other three entities.  Breaking Bad  is not a situation in which the characters’ morality is static or contradictory or colored by the time frame; instead, it suggests that morality is continually a personal choice. When the show began, that didn’t seem to be the case: It seemed like this was going to be the story of a man (Walter White, portrayed by Bryan Cranston) forced to become a criminal because he was dying of cancer. That’s the elevator pitch. But that’s completely unrelated to what the show has become. The central question on  Breaking Bad  is this: What makes a man “bad” — his actions, his motives, or his conscious decision to be a bad person? Judging from the trajectory of its first three seasons,  Breaking Bad  creator Vince Gilligan believes the answer is option No. 3. So what we see in  Breaking Bad  is a person who started as one type of human and decides to become something different. And because this is television — because we were introduced to this man in a way that made him impossible to dislike, and because we experience TV through whichever character we understand the most — the audience is placed in the curious position of continuing to root for an individual who’s no longer good. And this is not a case like J.R. Ewing or Al Swearengen, where a character’s over-the-top evilness immediately defined his charm; this is a series in which the main character has actively become evil, but we still want him to succeed. At this point, Walter White could do  anything  and I would continue to support his cause. In fact, his evolution has been so deft that I feel weird describing his persona as “evil,” even though I can’t justify why it would be incorrect to do so. 7  Gilligan detailed this process in a recent interview with  Newsweek : “Television is historically good at keeping its characters in a self-imposed stasis 8  so that shows can go on for years or even decades. When I realized this, the logical next step was to think, how can I do a show in which the fundamental drive is toward change?” 
+ In that same  Newsweek  article, the writer suggests Walter White’s on-going metamorphosis is what makes  Breaking Bad  great. But that doesn’t go far enough. It’s not just that watching White’s transformation is interesting; what’s interesting is that this transformation involves the fundamental core of who he supposedly is, and that this (wholly constructed) core is an extension of his own free will. The difference between White in the middle of Season 1 and White in the debut of Season 4 is not the product of his era or his upbringing or his social environment. It’s a product of his own consciousness. He changed himself. At some point, he  decided  to become bad, and that’s what matters. 
+ There’s a scene in  Breaking Bad ‘s first season in which Walter White’s hoodrat lab assistant Jesse Pinkman (Aaron Paul) tells Walter he just can’t “break bad,” and — when you first hear this snippet of dialogue — you assume what Jesse means is that you can’t go from being a law-abiding chemistry teacher to an underground meth cooker. It seems like he’s telling White that he can’t start breaking the law after living a life in which laws were always obeyed, and that a criminal lifestyle is not something you can join like a club. His advice seems pragmatic, and it almost feels like an artless way to shoehorn the show’s title into the script. But this, it turns out, was not Jesse’s point at all. What he was arguing was that someone can’t “decide” to morph from a good person into a bad person, because there’s a firewall within our personalities that makes this impossible. He was arguing that Walter’s  nature  would stop him from being bad, and that Walter would fail if tried to complete this conversion. But Jesse was wrong. He was wrong, because goodness and badness are simply complicated choices, no different than anything else.  
+ Chuck Klosterman is the author of  six books . His novel  The Visible Man  will be released in October. 
+ I know I once wrote in  Esquire  that  Lost  was the best show in  the history of network television , but the operative word there is “network.” The limitations change everything. Having the best show on network TV is kind of like being the best crunk dancer at a Genesis concert. 
+ Which I realize is not always the same thing. 
+ There was a time when I would have argued that “production value” was equally important — but shows like  The Killing  and  Big Love  and  Rubicon  and  Treme  illustrate how that’s only a temporary illusion. Once the glossy veneer comes off (usually around episode three), you realize they’re inferior. 
+ Semirelated: Of these four shows,  Mad Men  is the only that doesn’t regularly involve violence. This also changes the gravity of the characters’ decision-making, because the worst thing that can happen to anyone is merely losing a job or being humiliated. 
+ “As a result, you find people making damning, melodramatic criticisms of TV shows they ostensibly like.” 
+ If the president tells a reporter your TV show is his favorite, it’s de facto political, regardless of the premise or the creator’s original intent. Barack Obama’s loving  The Wire  is a little like Amy Carter adding the Sex Pistols to the White House music library — it shouldn’t mean anything, but of course it does. Whenever a president (or even a senator) is asked about what they like to watch on television, they know their answer will be perceived as symbolic of who they are and what they represent. This is why there will never be a modern U.S. President who will not define himself as a sports fan. 
+ Case in point: The print advertisements hyping the premiere of Season 4.  Have you seen these portraits?  The only thing missing is a swastika on Cranston’s forehead. 
+ Gilligan made  an almost identical point  in David Segals’ recent story on the series for the  New York Times Magazine : “Television is really good at protecting the franchise.  It’s good at keeping the Korean War going for 11 seasons, like  M*A*S*H . It’s good at keeping Marshal Dillon policing his little town for 20 years. By their very nature TV shows are open-ended. So I thought, Wouldn’t it be interesting to have a show that takes the protagonist and transforms him into the antagonist?” 
+   
+ 
+ 
+ 
+ Facebook 
+ Twitter 
+ Print 
+ 
+  AddThis Button BEGIN  
+ 
+ Share 
+ 
+  AddThis Button END  
+ 
+ 
+ Filed Under:  Breaking Bad ,  Celebrities ,  Chuck Klosterman ,  People ,  TV 
+ 
+ 
+ 
+ Chuck Klosterman  is a contributing editor at Grantland and the author of eight books. The latest is  I Wear the Black Hat . 
+ 
+ Archive 
+ @ CKlosterman 
+ 
+ <p class="recently"><em>Most recently:</em> <a href="#">Bill Simmons on which NFL teams will claim the up-for grabs playoff spots</a></p> 
+ 
+ 
+ 
+ 
+ 
+ More From Chuck Klosterman 
+ More Breaking Bad 
+ More Features 
+ 
+ 
+ 
+ More from Chuck Klosterman 
+ 
+ 
+ Moses Malone: 1955–2015    September 13, 2015 
+ 
+ 
+ Human Resources: Work Friendship and the Hidden Legacy of ‘Mad Men’    May 19, 2015 
+ 
+ 
+ Bad Boys and Good Times    April 17, 2014 
+ 
+ 
+ My Eroding Generation Gap: On Eminem’s Bizarre College Football Cameo    December 2, 2013 
+ 
+ 
+ Remembering Lou Reed    October 28, 2013 
+ 
+ 
+ See all from Chuck Klosterman 
+ 
+ 
+ More Breaking Bad 
+ 
+ 
+ Nathan Fielder Is the Walter White of Comedy    October 22, 2015 
+ 
+ 
+ TV Burning Questions Answered: Worst TV Bosses, Silliest Show Names, and More!    April 30, 2015 
+ 
+ 
+ Wondering Woman: Why Warner Bros. Axed Michelle MacLaren, and What That Tells Us About the State of Female Directors in Hollywood    April 22, 2015 
+ 
+ 
+ Can ‘Need for Speed’ Become the Poor Man’s ‘Fast & Furious’ Franchise?    April 17, 2015 
+ 
+ 
+ ‘Better Call Saul’ Is Brilliant, With or Without Having Seen ‘Breaking Bad’    April 6, 2015 
+ 
+ 
+ See all Breaking Bad 
+ 
+ 
+ More Features 
+ 
+ 
+ Blades of Glory    October 28, 2015 
+ 
+ 
+ Russell, the Creator    October 28, 2015 
+ 
+ 
+ 30 for 30 Shorts: Every Day    October 28, 2015 
+ 
+ 
+ The 15 Biggest Plays in Baseball History    October 27, 2015 
+ 
+ 
+ The Laughs, Pathos, and Overwhelming Talent of Jan Hooks    October 20, 2015 
+ 
+ 
+ See all Features 
+ 
+ 
+ 
+ 
+ 
+ end layout-main 
+ 
+ 
+ Top  Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Weight of the Interim Label 
+ 
+ by   Bill Barnwell   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ World Series Preview: Five Questions for Games Three and Four 
+ 
+ by   Ben Lindbergh   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50 Scenes That Do Not Appear in the ‘X-Files’ Revival 
+ 
+ by   Brian Phillips   
+ 
+ 
+ 
+ Click here to watch ‘Jalen & Jacoby,’ Grantland Features, and video podcasts! 
+ 
+ 
+   
+ 
+   
+ 
+ Top  Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Weight of the Interim Label 
+ 
+ by   Bill Barnwell   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ World Series Preview: Five Questions for Games Three and Four 
+ 
+ by   Ben Lindbergh   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50 Scenes That Do Not Appear in the ‘X-Files’ Revival 
+ 
+ by   Brian Phillips   
+ 
+ 
+ 
+ Click here to watch ‘Jalen & Jacoby,’ Grantland Features, and video podcasts! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cached Widget    
+ 
+ Most  Popular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Features 
+ 
+ 
+ 
+ 
+ The Triangle 
+ 
+ 
+ 
+ 
+ Hollywood Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ end layout-two-col 
+ 
+  end l-c  
+ 
+ End role=main 
+ 
+  End #page  
+  Begin Footer  
+ 
+ 
+ Twitter 
+ Facebook 
+   
+ Features 
+ The Triangle 
+ The Hollywood Prospectus 
+ Contributors 
+ Podcasts 
+ Video 
+ Quarterly 
+ ESPN.com 
+   
+ Terms of Use  and  Privacy Policy  and Safety Information/ Your California Privacy Rights / Children's Online Privacy Policy  are applicable to you. 
+ © 2023 ESPN Internet Ventures. All rights reserved.  Interest-Based Ads .  Cookie Policy . 
+ Powered by  WordPress VIP 
+ 
+ 
+  End Footer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
