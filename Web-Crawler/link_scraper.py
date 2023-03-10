@@ -8,6 +8,7 @@ from collections import deque
 def clean_url(url):
     """
     Returns a clean version of the URL, or None if the URL is not interesting
+    A clean and interesting URL is one that can be used to put back in the queue to continue scraping
 
     :param: (str) url to be cleaned
     :return: (str) clean version of url | None if url is not interesting
@@ -23,8 +24,13 @@ def clean_url(url):
         i = url.find("?")
         url = url[:i]
 
-    # Make sure that the URL is valid and interesting
-    if url.startswith("http") and "google" not in url:
+    # Make sure that the URL is valid
+    unacceptable_extensions = [".pdf", ".png", ".jpeg"]
+    unacceptable_keywords = ["wikipedia", "wikidata", "wikimedia", "youtube", "google"]
+
+    if url.startswith("http") \
+            and not any(url.endswith(ext) for ext in unacceptable_extensions) \
+            and not any(keyword in url for keyword in unacceptable_keywords):
         return url
 
     return None
@@ -63,8 +69,8 @@ def scrape_links(start_url, max_links=15):
             new_url = link_element.get('href')
             new_url = clean_url(new_url)
             if new_url:
-                selected_links.append(new_url)
                 url_queue.append(new_url)
+                selected_links.append(new_url)
 
     return selected_links
 
