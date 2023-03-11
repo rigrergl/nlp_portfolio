@@ -6,6 +6,7 @@ import re
 def clean_text(text):
     text = text.replace("\n", "").replace("\t", "")  # remove newlines and tabs
     text = re.sub(' +', ' ', text).strip()  # remove extra spaces
+    text = text.lower()
     result = ""
 
     for sent in sent_tokenize(text):
