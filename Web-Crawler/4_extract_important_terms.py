@@ -10,6 +10,7 @@
 
 import math
 import pathlib
+import re
 import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
@@ -80,14 +81,18 @@ def main():
     for tf_dict in tf_dicts:
         tf_idf_dicts.append(create_tf_idf(tf_dict, idf_dict))
 
+    # Define a regular expression pattern to match only English characters
+    english_pattern = re.compile('[a-zA-Z]+')
+
     # create a dictionary to hold the total tf-idf score for each term across al documents
     total_scores = {}
     for tf_idf_dict in tf_idf_dicts:
         for term, score in tf_idf_dict.items():
-            if term in total_scores:
-                total_scores[term] += score
-            else:
-                total_scores[term] = score
+            if english_pattern.fullmatch(term):
+                if term in total_scores:
+                    total_scores[term] += score
+                else:
+                    total_scores[term] = score
 
     # extract 40 most important terms across all documents according to tdf-idf
     top_terms = nlargest(40, total_scores, key=total_scores.get)

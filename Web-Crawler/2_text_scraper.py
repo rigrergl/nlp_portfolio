@@ -35,9 +35,10 @@ def get_text(url):
         return
 
     soup = BeautifulSoup(html, features="html.parser")
-    data = soup.findAll(string=True)
+    data = soup.findAll('p')
     result = filter(is_visible, data)
     tmp_lst = list(result)
+    tmp_lst = [tag.text for tag in tmp_lst]
     tmp_str = ' '.join(tmp_lst)
 
     if len(tmp_str) < 800:

@@ -27,6 +27,10 @@ def main():
 
     pickle.dump(knowledge_base, open('knowledge_base.p', 'wb'))
 
+    # print the knowledge base
+    for term in important_terms:
+        print(term, ":", knowledge_base[term])
+
 
 if __name__ == '__main__':
     main()
