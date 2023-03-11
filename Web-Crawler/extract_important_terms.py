@@ -1,5 +1,5 @@
 """
-    Extracts the 25 most important terms from the cleaned text files
+    Uses tf-idf to extract the 25 most important terms from the cleaned text files
 
     Requirements:
         must have run the following scripts beforehand:
@@ -13,6 +13,7 @@ import pathlib
 import nltk
 from nltk import word_tokenize
 from nltk.corpus import stopwords
+from heapq import nlargest
 
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -79,12 +80,18 @@ def main():
     for tf_dict in tf_dicts:
         tf_idf_dicts.append(create_tf_idf(tf_dict, idf_dict))
 
-    # test tf-idf
-    doc_term_weights = sorted(tf_idf_dicts[0].items(), key=lambda x: x[1])
-    print(doc_term_weights[:5])
+    # create a dictionary to hold the total tf-idf score for each term across al documents
+    total_scores = {}
+    for tf_idf_dict in tf_idf_dicts:
+        for term, score in tf_idf_dict.items():
+            if term in total_scores:
+                total_scores[term] += score
+            else:
+                total_scores[term] = score
 
-    doc_term_weights = sorted(tf_idf_dicts[0].items(), key=lambda x: x[1], reverse=True)
-    print(doc_term_weights[:5])
+    # extract 40 most important terms across all documents according to tdf-idf
+    top_terms = nlargest(40, total_scores, key=total_scores.get)
+    print(top_terms)
 
 
 if __name__ == '__main__':
