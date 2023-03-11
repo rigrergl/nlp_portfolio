@@ -35,16 +35,16 @@ Assignment to understand concepts related to sentence syntax, understand the 3 t
 The document for this assignment can be found [here](Sentence-Parsing.pdf)
 
 ## Web Crawler
-Assignment to understand the importance of corpora in NLP, understand how to extract information from website using html, understand how websites work, and be able to do web scraping using Beautifuk Soup. Task was to create a Web Crawler
+Assignment to understand the importance of corpora in NLP, understand how to extract information from website using html, understand how websites work, and be able to do web scraping using Beautifuk Soup.
 
-The report for this assigment can be found [here](Web-Crawler/Report.pdf)
+The report for this assigment can be found [here](Web-Crawler/Report.pdf).
 
-The code for this report includes the following python files:
+The code for this project includes the following python files:
 1. [1_link_scraper.py](Web-Crawler/1_link_scraper.py)
 2. [2_text_scraper.py](Web-Crawler/2_text_scraper.py)
 3. [3_clean_text.py](Web-Crawler/3_clean_text.py)
 4. [4_extract_important_terms.py](Web-Crawler/4_extract_important_terms.py)
 5. [5_create_knowledge_base.py](Web-Crawler/5_create_knowledge_base.py)
 
-Instructions on how to run then Web Crawler locally can be found [here](Web-Crawler/readme.md) 
+Instructions on how to run then Web Crawler locally can be found [here](Web-Crawler/readme.md). 
 
