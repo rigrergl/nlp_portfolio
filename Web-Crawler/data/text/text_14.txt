@@ -1,17 +1,4 @@
 
- 
-  Start Google Analytics  
- 
-  End Google Analytics  
- 
- 
- 
- 
- 
- 
- 
- 
- 
   BEGIN WAYBACK TOOLBAR INSERT  
  
  
@@ -31,8 +18,8 @@
  
  
  
- 76 captures 
- 10 Feb 2015 - 10 Nov 2022 
+ 115 captures 
+ 30 Nov 2007 - 01 Mar 2023 
  
  
  
@@ -48,21 +35,21 @@
  
   NEXT/PREV MONTH NAV AND MONTH INDICATOR  
  
- Jan 
- FEB 
- Mar 
+ Apr 
+ JUN 
+ Apr 
  
   NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR  
  
  
- 10 
+ 02 
  
  
   NEXT/PREV YEAR NAV AND YEAR INDICATOR  
  
- 2014 
- 2015 
- 2016 
+ 2008 
+ 2009 
+ 2011 
  
  
  
@@ -104,27 +91,18 @@
  
  
  
-		Organization:  Internet Archive 
+		Organization:  Alexa Crawls 
  
  
-	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
- 
-Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
- 
-The goal is to  fix all broken links on the web . 
-
-Crawls of supported "No More 404" sites.
+	  Starting in 1996,  Alexa Internet  has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the  Wayback Machine  after an embargo period.
 	 
  
  
  
- Collection:  Wikipedia Near Real Time (from IRC) 
+ Collection:  alexa_web_2009 
  
  
-	  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
- 
- 
-This is part of the Internet Archive's attempt to  rid the web of broken links .
+	  this data is currently not publicly accessible.
 	 
  
  
@@ -136,169 +114,92 @@ This is part of the Internet Archive's attempt to  rid the web of broken links .
  
  
  
- The Wayback Machine - https://web.archive.org/web/20150210011146/http://tvbythenumbers.zap2it.com/2015/02/09/the-walking-dead-returns-to-15-6-million-viewers-better-call-saul-is-biggest-series-premiere-in-cable-history/361195/ 
+ The Wayback Machine - https://web.archive.org/web/20090602191730/http://manga.about.com:80/od/mangaartistswriters/a/JasonThompson.htm 
  
   END WAYBACK TOOLBAR INSERT  
  
  
  
  
- 1-Featured 
  
  
  
- 'The Walking Dead' Returns to 15.6 Million Viewers + 'Better Call Saul' is Biggest Series Premiere in Cable History 
  
-		Categories:  1-Featured , Network TV Press Releases   
  
  
  
- Written By  Amanda Kondolojy 
- February 9th, 2015 
  
  
  
+ Search 
+ Manga 
+ Home Hobbies & Games Manga 
  
+ Email 
  
+ Manga Reading Manga Art / Artists Conventions 
+ Free Manga Newsletter! Sign Up Discuss  in my Forum 
+ gc Interview: Jason Thompson Manga Editor and Author of Manga: The Complete Guide By  Deb Aoki , About.com 
+ See More About: jason thompson manga interviews manga artists shonen jump del rey manga 
  
+ Jason Thompson © Jason Thompson More Images  (2) 
  
  
+ As the editor for the U.S. editions of  Dragon Ball ,  One Piece ,  The Drifting Classroom  and the first American editor for  Shonen Jump  magazine, Jason Thompson spent the better part of the last decade in the center of the  manga  universe. With his recently released book,  Manga: The Complete Guide  from  Del Rey Manga , Thompson rates and reviews over a thousand  manga  series and demystifies the wide world of Japanese comics. 
+ With so much  manga  now available in English, how can any one sort through them all and find the gems among the piles of rocks?  In  Manga: The Complete Guide , Thompson reviews titles both popular and obscure, and provides insights about Japanese culture and the different genres of manga to make finding your next favorite  manga  series easier than ever. 
+ We talked with Thompson shortly after the release of his book, and got his take on the current state of the art, why  manga  has more in common with TV shows than American comics and, after reading over a thousand graphic novels, what he'll be doing for an encore. 
+ LOST IN TRANSLATING: DISCOVERING ANIME AND MANGA 
+ Q: According to your bio and other interviews, you first discovered  manga  almost 15 years ago. What turned you on to  manga ? 
+ Jason Thompson: While I was in high school, before I was aware of  anime  and  manga , I knew that some of my friends were into  Robotech . Later, some of them were into  Ninja High School , which was a comic by Ben Dunn that was influenced by  manga . I wasn't aware of those first VIZ releases in 1987, because I really wasn't that into comics at the time. 
+ When I went to college in 1991, I joined the  anime  club and I started watching those types of shows pretty regularly. I was into a mix of science-fiction, horror and fantasy at the time, but I also liked romantic comedies, like Rumiko Takahashi's stories. 
+ Q: It was really different being a  manga  reader at that time, wasn't it? There was a lot less available in English, and you really had to search for that kind of thing if you were interested in it. 
+ JT:  Absolutely. I wasn't even aware that there was translated stuff available until several years after I had been reading non-translated  manga . Then a friend showed up with a copy of  Battle Angel Alita  (one of the first VIZ  manga  titles available in English) and I thought "What the heck! I don't have to read this stuff in Japanese!"  
+ I was kind of disconnected from the comics community at the time. That kind of  manga  was only available in the comics stores, there was no presence of these books in the bookstores at all. 
+ JUMP-STARTING SHONEN JUMP IN AMERICA 
+ Q: So let's fast forward a little bit. In 1996, you then went on to become an editor at  VIZ Media , one of the first and one of the largest  manga  publishers in the U.S.  How did that gig come about? 
+ JT: Well, it was kind of a stroke of luck. Earlier that year, I had done a college paper about  manga  for a class I was taking. So I graduated with an English degree, then a friend pointed out an ad in  Animerica  magazine which was for a job at VIZ. I applied for that job, and in a stroke of incredible good fortune, I got it. 
+ I was the editor for  Game On! USA , which was VIZ's video game and  manga  magazine. So I worked on that magazine during its brief, comet-like run. Then after that I stayed on and worked on other things. 
+ Q: You went on to edit several  manga  titles, including  Dragon Ball ,  Silent Moebius , and then you became the first editor for the U.S. edition of  Shonen Jump Magazine . 
+ JT: Yeah, it was a good thing to move from being an editor of a video game magazine to a  manga  magazine, because I know a lot more about  manga  than games.  When I was a  manga  editor, I started out by working on a lot of very forgettable titles, such as  Nightwarriors . By the time I got to edit  Dragon Ball , I really felt I was in the big time as a  manga  fan.  
+ In early 2002, VIZ was looking for their next big thing to do after the success of  Pokemon .  Pokemon  made a lot of money for them, but they weren't able to generate any big follow-up to it. So one thing they wanted to do was launch a  shonen manga  magazine. 
+ I had always been a fan of  Shonen Jump  titles, so I had always regretted that VIZ couldn't get these licenses because Shueisha (Japanese publisher for  Shonen Jump ) wanted all their  manga  to be presented unflopped. VIZ wasn't ready for that at the time.  
+ So the original plan was to do a  manga  magazine that would have  Shonen Jump  titles, but wouldn't be  Shonen Jump . However, the Shueisha people were very hard negotiators, so they bought half of VIZ in exchange for the privilege of publishing the  Shonen Jump  titles and the  Shonen Jump  name. This was a huge change for VIZ, but in the end, it worked out very well for them. 
+ Q: It must have been challenging to try to adapt one of Japan's most popular  manga  magazine for an American audience… . 
+ JT: Yeah, it was very tricky. Originally, there were plans to make Shonen Jump an all-ages title, but it ended up being a 13+ title.  I was glad to see that, since you can get away with a lot more, content-wise, in a magazine that's for readers age 13 and up. 
+ With all the new places that  manga  was being sold, like through Scholastic book clubs and Walmart, there was a lot more scrutiny placed on  manga  than ever before. For example, you can't show scenes with kids smoking in comics for that age group.  
+ While dealing with this challenge, it was interesting to work with the different artists. For example, Hiroyuki Takei was very concerned that  Shaman King  would have to be altered too much. I had to convince him, by telling him that we liked his  manga  so much, we would do our best to respect his work.  
+ Eiichiro Oda of  One Piece  was also very sensitive to every aspect of how his  manga  would be translated, right down to the sound effects. On the other hand, there were other artists who didn't have as strong opinions, because they were used to getting their work translated into other languages.  
+( More on Page 2 )
+		 /gc 
  
+ Prev 1 2 3 4 5 Next 
  
+ Suggested Reading Jason Thompson's Top 10 Manga Magazine Profile: Shonen Jump  Related Articles Jason Thompson Interview - Interview With the Author of Manga: The Complete... Kurt Hassler Interview - Interview With the Publisher of Yen Press Kurt Hassler Interview - Interview With the Publisher of Yen Press Press Release - VIZ Media, LLC - 10/20/06 Madeleine Rosca Interview - Interview With Manga Creator of Hollow Fields 
+ Deb Aoki Manga Guide Sign up  for my Newsletter My Blog My Forum 
  
  
  
  
  
- via press release: 
- “BETTER CALL SAUL” IS THE BIGGEST 
- SERIES PREMIERE IN CABLE HISTORY DELIVERING 
- 4.4 MILLION ADULTS 18-49 AND 4.0 MILLION ADULTS 25-54 
-   
- “ The Walking Dead ” RETURNS AS THE BIGGEST REGULARLY-SCHEDULED PROGRAM OF 2015 WITH 15.6 MILLION VIEWERS 
- AND 10.1 MILLION ADULTS 18-49 
-   
- “TALKING DEAD” AFTERSHOW RETURNS AT A LATER TIMESLOT FOR THE NIGHT (11:15PM – 12:15AM) WITH 2.8 MILLION VIEWERS AND 1.9 MILLION ADULTS 18-49 
-   
- NEW YORK, NY – February 9, 2015 –  The premiere of “Better Call Saul” on AMC last night was the biggest series premiere in cable history, drawing 4.4 million adults 18-49 and 4.0 million adults 25-54. The second episode of “Better Call Saul” airs tonight at 10:00 p.m. ET/PT, as part of a two-night television premiere event. 
-   
- “ The Walking Dead ” returned for the second half of its fifth season with a mid-season premiere that delivered 15.6 million total viewers and 10.1 million adults 18-49. “ The Walking Dead ” remains the #1 show in all of television among adults 18-49. Last night’s episode was the highest performing regularly-scheduled entertainment program of 2015. With time-shifted playback added in, this mid-season premiere of “ The Walking Dead ” should exceed more than 20 million viewers. AMC also expects to see significant time-shifting activity for “Better Call Saul,” as the show is opening up a new night of original programming for the network on Mondays. AMC will next release ratings information for “Better Call Saul” early next week, with the arrival of live+3 Nielsen ratings for the two-night premiere. 
-   
- Also last night, the “Talking Dead” aftershow premiered at a special time (Sunday 11:15pm – 12:15am) and delivered 2.8 million viewers and 1.9 million adults 18-49. Each week, “Talking Dead” features host Chris Hardwick and fans, actors, producers and other TV enthusiasts discussing that night’s “The  Walking Dead ” premiere. The mid-season premiere featured Chad L. Coleman (Tyreese) and executive producer Greg Nicotero, who also directed last night’s episode of “The  Walking Dead .” 
-   
- “In a competitive environment that sometimes gets as much press as the shows themselves, it is gratifying to deliver programming that breaks through and reaches passionate audiences. For AMC, it starts with the creative talent we are so fortunate to be working with including, among many others – in the order of last night’s  Unforgettable  schedule – Robert Kirkman and Scott Gimple of The  Walking Dead , Vince Gilligan and Peter Gould of Better Call Saul, and Chris Hardwick of Talking Dead,” said Charlie Collier, AMC president. “We are supremely thankful for the talented people who call this network home, and for the fans who continue to make AMC a television destination unlike any other. Walking. Calling. Talking. Humbling.” 
-   
- Key Nielsen Highlights for the Season Five Mid-Season Premiere of “The  Walking Dead ” 
-   
+ Explore Manga Must Reads 20 Manga Must-Reads Yoshihiro Tatsumi Interview 10 Manga Trends for 2009 36 Manga Missed by The Eisners 20 Hot Manga for 2009 Most Popular Anime Expo 2007 - Naruto Cosplay New York Anime Festival 2007 - Death Note Cosplay Death Note Anime Death Note: Light Yagami & Ryuk Yaoi-Con 2007 - Naruto Cosplay 
+ See More About: jason thompson manga interviews manga artists shonen jump del rey manga By Category Intro to Manga Types of Manga History of Manga Manga Titles: A-Z Characters A-Z Artwork & Photo Galleries Recommended Reading Reviews Manga Artists & Writers Reading Manga Manga Magazines Manga Publishers Shopping & Fan Sites Conventions & Cosplay Glossary 
  
- 9:00 pm  airing – 7.9 HH national  rating  (9.7 cvg) with 15.6 million viewers 
- 9:00 pm  airing – 8.0 national rating (10.0 cvg) with 10.1 million Adults 18-49 
- 9:00 pm  airing – 8.0 national rating (9.9 cvg) with 9.5 million Adults 25-54 
+ About.com Special Features 
  
-   
- Key Nielsen Highlights for the Series Premiere of “Better Call Saul” 
-   
  
- 10:00 pm  airing – 3.7 HH national rating (4.5 cvg) with 6.9 million viewers 
- 10:00 pm  airing – 3.4 national rating (4.3 cvg)  with 4.4 million Adults 18-49 
- 10:00 pm  airing – 3.3 national rating (4.1 cvg) with 4.0 million Adults 25-54 
+ Scrapbook Technique Gallery 
+ Use these ideas to inspire your own uniquely beautiful pages.  More > 
  
-   
- Key Nielsen Highlights for the Season Four Mid-Season Premiere of “Talking Dead” 
-   
  
- 11:15 pm  airing – 1.6 national rating (2.0 cvg) with 2.8 million viewers 
- 11:15 pm  airing – 1.5 national rating (1.9 cvg) with 1.9 million Adults 18-49 
- 11:15 pm  airing – 1.4 national rating (1.8 cvg) with 1.7 million Adults 25-54 
  
-   
- Top 5 Entertainment programs of 2015: Adults 18-49 
- 1.        NBC    BLACKLIST, special slot/post- Super Bowl  (2/1/15) 10,668 
- 2.        AMC   THE WALKING DEAD (2/9/15)                              10,129 
- 3.        FOX     Simpsons  (1/4/15)                                                     5,981 
- 4.        FOX    EMPIRE (2/4/15)                                                          5,870 
-   
- 5.        CBS     Big Bang Theory  (1/8/15)                                   5,866 
  
- Follow TV by the Numbers on  Twitter ,  Facebook ,  Google+ ,  Tumblr   or  RSS  for all the latest.  
-
-				
-
- Tags:  Better Call Saul Ratings ,  The Walking Dead Ratings 
+ Price Your Collectibles 
+ Find out how much your treasured collection is worth.  More > 
  
  
+ Browse All  About.com 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  End Main Col  
- 
-   
- TV Listings   BEGIN PRIMETIME LISTINGS WIDGET  
- 
- Tonight in Prime Time 
- 
- 
- 
- 
- 
- TV listings 
-                                              powered by  Zap2it 
- 
- 
- 
- END PRIMETIME LISTINGS WIDGET  
- 
-     
- TV By the Numbers Site Search   
- 
- 
- 
- 
- 
-   
- Follow Us   
- 
- 
- 
- 
- 
- 
- 
- 
-   —Facebook Widget Test -- 
- 
- 
-  End Facebook Widget Test 
-   Recent Posts 'Getting On' Renewed for Third and Final Season by HBO Cable News Ratings for Friday, February 6, 2015 Friday Cable Ratings: 'Gold Rush' Tops Night + 'Alaskan Bush People', 'Bring It!', 'Newsreaders' & More Friday Final Ratings: 'Hart of Dixie', 'Dateline', 'Shark Tank' & 'Masters of Illusion' Adjusted Up; 'Cristela' Adjusted Down 'Elementary' is the #1 Program in 7-Day DVR Playback With a Gain of 4.37 Million Viewers 'Archer' Makes Two-Episode Comedy Central Premiere on Monday March 2 at 10 and 10:30PM Live+3: ABC's 'Fresh Off the Boat' Premiere Jumps to a 3.3 in Adults 18-49 and 9.8 Million Viewers FOX NASCAR Races Into 15th Season With 80 Hours of Daytona Speedweeks Coverage 'The Walking Dead' Returns to 15.6 Million Viewers + 'Better Call Saul' is Biggest Series Premiere in Cable History 'Melissa & Joey' Cancelled by ABC Family After Four Seasons Live + 7 Ratings: 'Empire' Surges to 6.3 With Adults 18-49 'Empire' Notches Biggest Adults 18-49 Increase, 'Revenge' Leads Percentage Gainers & 'Elementary' Tops Viewership Gains in Live +7 Ratings for Week 18 Ending January 25 Discovery's 'Bering Sea Gold' Returns March 13 57th Annual Grammy Awards Notches 25.3 Million Viewers AMC and Cinnabon Partner for Season Premiere of New Drama Series 'Better Call Saul' TV Ratings Sunday: (Updated) Grammy Awards Slide from 2014 + 'Mulaney' Rises as 'The Simpsons' & 'Family Guy' Fall Showtime Releases First Image of New Comedy 'Happyish' Kevin Hart Tapped as Roast Master for the 'Comedy Central Roast of Justin Bieber' Nickelodeon Stars Unite in 'Splitting Adam' Premiering Monday February 16th HBO Makes Chapter 1 of 'The Jinx: The Life and Deaths of Robert Durst' Available on YouTube   
-   
- 
- 
- Home 
- About 
- Contact 
- Help 
- FAQ 
- Follow Us 
- TV Listings 
- 
- 
- 
- 
- 
- 
-  End Blog  
- 
-	© 2015 Tribune Digital Ventures 
- 
- 
- 
+ Manga Home Hobbies & Games Manga Manga Artists & Writers Jason Thompson Interview - Interview With the Author of Manga: The Complete Guide Most Popular Latest Articles Add to:  iGoogle My Yahoo! RSS Advertising Info News & Events Work at About SiteMap All Topics Reprints Help User Agreement Ethics Policy Patent Info. Privacy Policy Our Story Be a Guide ©2009 About.com, a part of  The New York Times Company . All rights reserved. 
  
  
  

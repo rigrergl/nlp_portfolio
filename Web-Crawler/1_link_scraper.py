@@ -81,7 +81,7 @@ def scrape_links(start_url, max_links=40):
 
 def main():
     # Scrape for links
-    links = scrape_links("https://en.wikipedia.org/wiki/Vince_Gilligan")
+    links = scrape_links("https://en.wikipedia.org/wiki/One_Piece")
 
     # Write the selected links to a text file
     with open(pathlib.Path.cwd().joinpath('data', 'urls.txt'), 'w') as f:

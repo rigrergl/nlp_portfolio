@@ -1,109 +1,95 @@
-<!
-[endif] [if lte IE 8 ]><link rel="stylesheet" href="http://grantland.com/wp-content/themes/espn-grantland/css/lte-ie8.css"/><!
-[endif] id="home" Begin .header Search Search Search Menu Search End .header Features The Triangle The Hollywood Prospectus Contributors Podcasts Video Quarterly ESPN.com /.nav-inner end .nav ➤ Previous Roger Clemens Gets Old-Time Religion ➤ Next Trade Deadline Power Rankings: Part 2, the Victors Ben Leuner/AMC .feature Facebook Twitter Print Breaking Bad Bad Decisions Why AMC's Breaking Bad beats Mad Men , The Sopranos , and The Wire .
-by Chuck Klosterman on August 2, 2011 T hough some may disagree (and I’m sure some will, because some always do), there doesn’t seem to be much debate over what have been the four best television shows of the past 10 years.
-It seems like an easy question to answer, particularly since it’s become increasingly difficult to write about the state of TV (or even the state of popular culture) without tangentially mentioning one of the following four programs — The Sopranos , The Wire , Mad Men , and/or Breaking Bad .
-The four fit together so nicely: Two from HBO that are defunct, two from AMC that are on-going, and all of which use nonlinear narratives with only minor experimentation.
-There have been bushels of quality television during the past decade, but these four shows have been the best 1 (and by a relatively wide margin).
-Taste is subjective, but the critical consensus surrounding these four dramas is so widespread that it feels like an objective truth; it’s become so accepted that this entire paragraph is a remarkably mundane argument to make in public.
-I’m basically writing, “The greatness of these great shows is defined by their greatness.” There’s no conflict in stating that good things are good.
-Until, of course, you try to suggest that one of these shows is somehow better than the other three.
-Then it becomes a fucking bloodbath.
-Because TV is so simultaneously personal (it exists inside your home) and so utterly universal (it exists inside everyone’s home), people care about it with an atypical brand of conversational ferocity — they take it more personally than other forms of art, and they immediately feel comfortable speaking from a position of expertise.
-They develop loyalties to certain characters and feel offended when those loyalties are disparaged.
-This is what makes arguing about these particular shows so intense and satisfying — even though most serious TV watchers enjoy (or at least appreciate) all four, they habitually feel a greater internal obligation to advocate the superiority of whichever title they love most.
-As a result, you hear people making damning, melodramatic criticisms of TV shows they ostensibly like.
-You hear a lot of sentences that begin, “I love Mad Men , but …” or “The first two seasons of The Sopranos were great, but …” And whatever follows that “but” is inevitably crazy and hyperspecific.
-This is especially true among people who prefer The Wire .
-There’s never been a more obstinate fan base than that of The Wire ; it’s a secular cult that refuses to accept any argument that doesn’t classify The Wire as the greatest artistic endeavor in television history.
-It’s almost as if these people secretly believe this show actually happened , and that criticizing the storyline is like mocking an episode of Frontline .
-This was not a documentary about Baltimore: Wallace is not alive and playing high school football in Texas, Stringer Bell was not reincarnated as a Pennsylvania paper salesman, and you are not qualified to lecture on inner-city education because you own Season 4 on DVD.
-The citizens on that show were nonexistent composites, and the events you watched did not occur.
-As a society, we must learn to accept this.
-Which is not to say The Wire wasn’t brilliant, because it was.
-Of the four shows I’ve mentioned, The Wire absolutely exhibited the finest writing; Mad Men has the most fascinating collection of character types, and The Sopranos was the most fully realized (and, it’s important to note, essentially invented this rarified tier of televised drama).
-But I’ve slowly come to the conclusion that Breaking Bad is the best of the four, or at least the one I like the most.
-2 And I’ve been trying to figure out why I feel this way.
-It’s shot in the most visually creative style, but that’s not enough to set it apart; the acting is probably the best of the four, but not by a lot (and since good acting can sometimes cover deeper problems with direction and storytelling, I tend not to give it much weight).
-I suspect Breaking Bad will be the least remembered of these four shows and will probably be the least influential over time.
-Yet there’s one profound difference between this series and the other three, and it has to do with its handling of morality: Breaking Bad is the only one built on the uncomfortable premise that there’s an irrefutable difference between what’s right and what’s wrong, and it’s the only one where the characters have real control over how they choose to live.
-Certainly, all of these series grapple with morality — more than anything else, 3 it’s the reason they’re better than the shows around them.
-But the first three examples all create realities where individual agency is detached.
-Mad Men is set in the 1960s, so every action the characters make is not really a reflection on who they are; they’re mostly a commentary on the era.
-Don Draper is a bad husband, but “that’s just how it was in those days.” Characters can do or say whatever they want without remorse, because almost all their decisions can be excused (or at least explained) by the circumstances of the period.
-Roger Sterling’s depravity is a form of retrospective entertainment, so very little is at stake.
-4 The people on this show need to be irresponsible for the sake of plausibility, so we can’t really hold them accountable for what they do.
-Now, The Sopranos and The Wire were set in the present, so the actions of their casts are harder to rationalize away — but both shows had fixed worldviews, so that process is still possible.
-Every important person on The Sopranos was involved with organized crime, and its protagonist was a (likeable) transgressor who regularly murdered for money — subsequently, there were never any unresolved questions over Tony Soprano’s “goodness.” When Tony did something nice, he did it in spite of the fact that (we all know) he’s fundamentally bad (otherwise he couldn’t exist as the person he was).
-The Sopranos was compelling because we were continually watching innately bad people operate within a world not unlike our own — this, in one sentence, was the crux of the series.
-Meanwhile, The Wire was more nuanced: In The Wire , everyone is simultaneously good and bad.
-The cops are fighting crime, but they’re all specifically or abstractly corrupt; the drug dealers are violent criminals, but they’re less hypocritical and hold themselves to a higher ethical standard.
-There were sporadic exceptions to this rule, but those minor exceptions only served to accentuate its overall relativist take on human nature: Nobody is totally positive and nobody is totally negative, and our inherently flawed assessment of those qualities hinges on where we come from and what we want to believe.
-And this, of course, is closer to how life actually is (which is why The Wire felt so realistic).
-It’s a more sophisticated way to depict the world.
-However — from a fictional, narrative perspective — it ends up making the message a little less meaningful.
-5 If nothing is totally false, everything is partially true; depending on the perspective and the circumstance, no action is unacceptable.
-The conditions matter more than the participants.
-As we drift further and further from its 2008 finale, it increasingly feels like the ultimate takeaway from The Wire was more political 6 than philosophical.
-Which is not exactly a criticism, because that’s an accomplishment, too … it’s just that it turns the plot of The Wire into a delivery mechanism for David Simon’s polemic worldview (which makes its value dependent on how much the audience is predisposed to agree with him).
-This is where Breaking Bad diverges from the other three entities.
-Breaking Bad is not a situation in which the characters’ morality is static or contradictory or colored by the time frame; instead, it suggests that morality is continually a personal choice.
-When the show began, that didn’t seem to be the case: It seemed like this was going to be the story of a man (Walter White, portrayed by Bryan Cranston) forced to become a criminal because he was dying of cancer.
-That’s the elevator pitch.
-But that’s completely unrelated to what the show has become.
-The central question on Breaking Bad is this: What makes a man “bad” — his actions, his motives, or his conscious decision to be a bad person?
-Judging from the trajectory of its first three seasons, Breaking Bad creator Vince Gilligan believes the answer is option No.
-3.
-So what we see in Breaking Bad is a person who started as one type of human and decides to become something different.
-And because this is television — because we were introduced to this man in a way that made him impossible to dislike, and because we experience TV through whichever character we understand the most — the audience is placed in the curious position of continuing to root for an individual who’s no longer good.
-And this is not a case like J.R. Ewing or Al Swearengen, where a character’s over-the-top evilness immediately defined his charm; this is a series in which the main character has actively become evil, but we still want him to succeed.
-At this point, Walter White could do anything and I would continue to support his cause.
-In fact, his evolution has been so deft that I feel weird describing his persona as “evil,” even though I can’t justify why it would be incorrect to do so.
-7 Gilligan detailed this process in a recent interview with Newsweek : “Television is historically good at keeping its characters in a self-imposed stasis 8 so that shows can go on for years or even decades.
-When I realized this, the logical next step was to think, how can I do a show in which the fundamental drive is toward change?” In that same Newsweek article, the writer suggests Walter White’s on-going metamorphosis is what makes Breaking Bad great.
-But that doesn’t go far enough.
-It’s not just that watching White’s transformation is interesting; what’s interesting is that this transformation involves the fundamental core of who he supposedly is, and that this (wholly constructed) core is an extension of his own free will.
-The difference between White in the middle of Season 1 and White in the debut of Season 4 is not the product of his era or his upbringing or his social environment.
-It’s a product of his own consciousness.
-He changed himself.
-At some point, he decided to become bad, and that’s what matters.
-There’s a scene in Breaking Bad ‘s first season in which Walter White’s hoodrat lab assistant Jesse Pinkman (Aaron Paul) tells Walter he just can’t “break bad,” and — when you first hear this snippet of dialogue — you assume what Jesse means is that you can’t go from being a law-abiding chemistry teacher to an underground meth cooker.
-It seems like he’s telling White that he can’t start breaking the law after living a life in which laws were always obeyed, and that a criminal lifestyle is not something you can join like a club.
-His advice seems pragmatic, and it almost feels like an artless way to shoehorn the show’s title into the script.
-But this, it turns out, was not Jesse’s point at all.
-What he was arguing was that someone can’t “decide” to morph from a good person into a bad person, because there’s a firewall within our personalities that makes this impossible.
-He was arguing that Walter’s nature would stop him from being bad, and that Walter would fail if tried to complete this conversion.
-But Jesse was wrong.
-He was wrong, because goodness and badness are simply complicated choices, no different than anything else.
-Chuck Klosterman is the author of six books .
-His novel The Visible Man will be released in October.
-I know I once wrote in Esquire that Lost was the best show in the history of network television , but the operative word there is “network.” The limitations change everything.
-Having the best show on network TV is kind of like being the best crunk dancer at a Genesis concert.
-Which I realize is not always the same thing.
-There was a time when I would have argued that “production value” was equally important — but shows like The Killing and Big Love and Rubicon and Treme illustrate how that’s only a temporary illusion.
-Once the glossy veneer comes off (usually around episode three), you realize they’re inferior.
-Semirelated: Of these four shows, Mad Men is the only that doesn’t regularly involve violence.
-This also changes the gravity of the characters’ decision-making, because the worst thing that can happen to anyone is merely losing a job or being humiliated.
-“As a result, you find people making damning, melodramatic criticisms of TV shows they ostensibly like.” If the president tells a reporter your TV show is his favorite, it’s de facto political, regardless of the premise or the creator’s original intent.
-Barack Obama’s loving The Wire is a little like Amy Carter adding the Sex Pistols to the White House music library — it shouldn’t mean anything, but of course it does.
-Whenever a president (or even a senator) is asked about what they like to watch on television, they know their answer will be perceived as symbolic of who they are and what they represent.
-This is why there will never be a modern U.S. President who will not define himself as a sports fan.
-Case in point: The print advertisements hyping the premiere of Season 4.
-Have you seen these portraits?
-The only thing missing is a swastika on Cranston’s forehead.
-Gilligan made an almost identical point in David Segals’ recent story on the series for the New York Times Magazine : “Television is really good at protecting the franchise.
-It’s good at keeping the Korean War going for 11 seasons, like M*A*S*H .
-It’s good at keeping Marshal Dillon policing his little town for 20 years.
-By their very nature TV shows are open-ended.
-So I thought, Wouldn’t it be interesting to have a show that takes the protagonist and transforms him into the antagonist?” Facebook Twitter Print AddThis Button BEGIN Share AddThis Button END Filed Under: Breaking Bad , Celebrities , Chuck Klosterman , People , TV Chuck Klosterman is a contributing editor at Grantland and the author of eight books.
-The latest is I Wear the Black Hat .
-Archive @ CKlosterman <p class="recently"><em>Most recently:</em> <a href="#">Bill Simmons on which NFL teams will claim the up-for grabs playoff spots</a></p> More From Chuck Klosterman More Breaking Bad More Features More from Chuck Klosterman Moses Malone: 1955–2015 September 13, 2015 Human Resources: Work Friendship and the Hidden Legacy of ‘Mad Men’ May 19, 2015 Bad Boys and Good Times April 17, 2014 My Eroding Generation Gap: On Eminem’s Bizarre College Football Cameo December 2, 2013 Remembering Lou Reed October 28, 2013 See all from Chuck Klosterman More Breaking Bad Nathan Fielder Is the Walter White of Comedy October 22, 2015 TV Burning Questions Answered: Worst TV Bosses, Silliest Show Names, and More!
-April 30, 2015 Wondering Woman: Why Warner Bros. Axed Michelle MacLaren, and What That Tells Us About the State of Female Directors in Hollywood April 22, 2015 Can ‘Need for Speed’ Become the Poor Man’s ‘Fast & Furious’ Franchise?
-April 17, 2015 ‘Better Call Saul’ Is Brilliant, With or Without Having Seen ‘Breaking Bad’ April 6, 2015 See all Breaking Bad More Features Blades of Glory October 28, 2015 Russell, the Creator October 28, 2015 30 for 30 Shorts: Every Day October 28, 2015 The 15 Biggest Plays in Baseball History October 27, 2015 The Laughs, Pathos, and Overwhelming Talent of Jan Hooks October 20, 2015 See all Features end layout-main Top Stories The Weight of the Interim Label by Bill Barnwell World Series Preview: Five Questions for Games Three and Four by Ben Lindbergh 50 Scenes That Do Not Appear in the ‘X-Files’ Revival by Brian Phillips Click here to watch ‘Jalen & Jacoby,’ Grantland Features, and video podcasts!
-Top Stories The Weight of the Interim Label by Bill Barnwell World Series Preview: Five Questions for Games Three and Four by Ben Lindbergh 50 Scenes That Do Not Appear in the ‘X-Files’ Revival by Brian Phillips Click here to watch ‘Jalen & Jacoby,’ Grantland Features, and video podcasts!
-Cached Widget Most Popular Features The Triangle Hollywood Prospectus end layout-two-col end l-c End role=main End #page Begin Footer Twitter Facebook Features The Triangle The Hollywood Prospectus Contributors Podcasts Video Quarterly ESPN.com Terms of Use and Privacy Policy and Safety Information/ Your California Privacy Rights / Children's Online Privacy Policy are applicable to you.
-© 2023 ESPN Internet Ventures.
+USA & Canada World USA & Canada Australia & New-Zealand India Southeast Asia Français Login forgot it?
+remember me or Login with Facebook Login with Twitter Register No account yet?
+Registering is free , easy , and private .
+Discuss in the forum, contribute to the Encyclopedia, build your own MyAnime lists, and more.
+× anywhere on the site in the encyclopedia in the forums News News chronological archives 22:28 Microsoft Xbox Confirms it Will Not Exhibit on Showfloor at E3 18:40 Bocchi The Rock!
+Manga Tops 2 Million in Circulation After Reprints 17:00 Uo to Mizu Manga Ends in Next Chapter 15:00 J-Novel Club Adds ' Accidentally in Love: The Witch, the Knight, and the Love Potion Slipup ' Novel 14:32 The Legend of Nayuta: Boundless Trails Game's Trailer Reveals Fall Release 14:10 Plex Streaming Service Adds 24/7 HIDIVE Anime Channel 12:45 An Momose's Shitasaki Kara Koi BL Manga About 'Cakeverse' Gets Mini Anime Shorts on YouTube 10:51 The First Slam Dunk Film Wins Japan Academy Film Prizes' Animation of the Year 07:01 New Pokémon Anime Reveals 4 More Cast Members 06:29 My Clueless First Friend Anime's 2nd Promo Video Previews Opening Theme Convention reports chronological archives Nov 18 Anime NYC 2022 Oct 31 Happy Halloween from the Anime World!
+Sep 25 Aniplex Festival Online 2022 Newsfeed Interest chronological archives 10:45 Spanish Soccer Athlete Andrés Iniesta Endorses Aoashi Manga Mar  9 Tweeting Allowed at Sasaki and Miyano Film Screening This Saturday Mar  9 Gundam: Witch From Mercury Website Briefly Lists Spoiler Summary For Anime's Season 2 Mar  8 One-Punch Man Cosmetics Launch in Overwatch 2 Mar  7 Evangelion , Shin Kamen Rider Izakaya Opens in Tokyo on Friday Mar  6 Hatsune Miku Crocs Are Coming Mar  6 Pop Team Epic's Hellshake Yano Turns to Card Battles in Duel Masters PLAY'S Game Press Releases chronological archives 21:51 Unmatched in Heaven and Earth: UDON Entertainment Proudly Releases Gurren Lagann Archcives This Summer 17:01 Meet My Hero Academia's Christopher Sabat, Studio Ghibli's Hirokatsu Kihara and More at MEGACON Orlando 17:00 New Hero Issun Boshi Added to 'The Battle Cats' 07:00 Fanhome Launches Transformers Optimus Prime Build-Up Subscription for North America 07:00 Doraemon Story of Seasons: Friends of the Great Kingdom's DLC Pack #3 “Together with Animals” is Now Available 07:00 Edda to Sing “Mubanso” ED Theme of The Ancient Magus' Bride Season 2 Views Features chronological archives 09:00 The Double Writer's Guide to Kamen Rider Mar  8 Hands-on With NARUTO×BORUTO VR Mar  7 Your Anime Rankings - Best of Winter 2023, Feb 26-Mar 4 Mar  6 Inside Bandai Namco's First Akihabara Arcade Mar  3 The Many Adaptations of Death Note Mar  1 Tonari Animation's CEO on Which Innovations Will Help the Anime Industry Feb 28 Your Anime Rankings - Best of Winter 2023, Feb 19-25 Feb 27 Fan Meetup Celebrates Digimon's 25th Anniversary Reviews alphabetical archives 12:00 Blue Thermal Mar  9 Blue Box GN 3 Mar  8 PARANORMASIGHT: The Seven Mysteries of Honjo Mar  8 FATAL FRAME: Mask of the Lunar Eclipse Mar  7 Immoral Guild Mar  6 Aim for the Ace Blu-ray Mar  5 Aggretsuko Season 5 Mar  4 IDOLiSH7 Third Beat!
+Episodes 14-30 Columns chronological archives 11:00 This Week in Games - Welcome To The Next Saiyan Level Mar  9 This Week in Anime - And the Award for Best Anime Awards Goes To... Mar  3 Answerman - What Kind of Content Restrictions Does Shonen Jump Impose?
+Mar  1 The ANN Aftershow - More Like "Hash the Stampede," Amirite?
+Everything chronological archives Features (incl.
+Interviews and Seasonal features like Anime Spotlight , Preview Guide , Weekly Rankings ) Reviews (incl.
+Game Reviews ) Columns (incl.
+The ANN Aftershow , Anime News Nina!
+, ANNtv , ANNCast , Answerman , Astro Toy , Intern Annika , Brain Diving , Buried Treasure , Chicks On Anime , Crashing Japan , The Dub Track , The Edit List , Epic Threads , From The Gallery , Hai Fidelity , House of 1000 Manga , Ima Kore Ga Hoshiin Da , Old School , Pile of Shame , RIGHT TURN ONLY!!
+, Shelf Life , Sound Decision , Sub Culture , Super Plastic , Tales Of The Industry , Tankobon Tower , The Click , The Gallery , The List , The Mike Toole Show , The Set List , The Stream , The X Button , This Week in Anime , This Week in Games , Vice & Luna ) Editorials (incl.
+Industry Comments ) Advertorials New Anime Your Score: Rate the Latest Simulcasts Upcoming Anime List Upcoming DVD & Blu-ray Weekly Rankings: The Best and Worst of the Season So Far According to Readers Anime Spotlight » previous seasons Winter 2023 Preview Guide "Ippon" Again!
+The Angel Next Door Spoils Me Rotten Ayakashi Triangle BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
+Season 2 Buddy Daddies Bungo Stray Dogs Season 4 By the Grace of the Gods Season 2 Campfire Cooking in Another World with My Absurd Skill Chillin' in My 30s after Getting Fired from the Demon King's Army D4DJ All Mix Don't Toy with Me, Miss Nagatoro 2nd Attack Endo and Kobayashi Live!
+The Latest on Tsundere Villainess Lieselotte Farming Life in Another World The Fire Hunter The Fruit of Evolution 2: Before I Knew It, My Life Had It Made Season 2 Giant Beasts of Ars Handyman Saitō in Another World High Card The Ice Guy and His Cool Female Colleague The Iceblade Sorcerer Shall Rule the World In/Spectre Season 2 Is It Wrong to Try to Pick Up Girls in a Dungeon?
+IV Part 2 Kaina of the Great Snow Sea Kubo Won't Let Me Be Invisible The Legend of Heroes: Trails of Cold Steel - Northern War The Magical Revolution of the Reincarnated Princess Malevolent Spirits: Mononogatari The Misfit of Demon King Academy II NieR:Automata Ver 1.1a Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World ONIMAI: I'm Now Your Sister!
+Reborn to Master the Blade: From Hero-King to Extraordinary Squire The Reincarnation of the Strongest Exorcist In Another World Revenger Saving 80,000 Gold in Another World for My Retirement Spy Classroom Sugar Apple Fairy Tale The Tale of Outcasts Technoroid Overmind Tokyo Revengers: Christmas Showdown Tomo-chan Is a Girl!
+Trigun Stampede Tsurune: The Linking Shot UniteUp!
+The Vampire Dies in No Time Season 2 Vinland Saga Season 2 » previous seasons Daily Streaming Reviews "Ippon" Again!
+#9 Attack on Titan Final Season THE FINAL CHAPTERS #1 BLUELOCK #21 BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
+Season 2 #7 Buddy Daddies #7-8 Bungo Stray Dogs Season 4 #47 Campfire Cooking in Another World with My Absurd Skill #9 Endo and Kobayashi Live!
+The Latest on Tsundere Villainess Lieselotte #9 Giant Beasts of Ars #9 Handyman Saitō in Another World #9 High Card #9 In/Spectre Season 2 #21 Is It Wrong to Try to Pick Up Girls in a Dungeon?
+IV #21 Kaina of the Great Snow Sea #8 My Hero Academia Season 6 #135 NieR:Automata Ver 1.1a #6 One Piece #1053 ONIMAI: I'm Now Your Sister!
+#10 Revenger #9 Spy Classroom #8 Sugar Apple Fairy Tale #9 The Fire Hunter #6-7 The Magical Revolution of the Reincarnated Princess #10 Tokyo Revengers: Christmas Showdown #9 Tomo-chan Is a Girl!
+#10 Trigun Stampede #9 Tsurune: The Linking Shot #10 Vinland Saga Season 2 #9 Welcome to Demon School, Iruma-kun Season 3 #21 Encyclopedia Anime Top 10 Latest Simulcasts Licensed Latest in Japan Upcoming TV series , movies , OAVs Manga Top 10 Licensed Latest in Japan People Most prolific cast Most prolific staff Releases This month Companies Licensors Lexicon Tools Search by genre, theme, year Comparison tool Personal settings more » Forum Forum Categories Site-Related General Industry For Subscribers Forums Talkback Anime > Series Discussion Manga Encyclopedia Feedback Retail Community Forum Information Search FAQ Usergroups My ANN Public Public Anime Lists Surveys Contests & Giveaways Newsletter ANN:Connect Subscribers Subscriber Forum Subscribe » Personal My Anime My Manga Change skin My Anime 2 (beta) About Our Team Contact us Site news Staff openings Privacy policy Copyright policy Other policies Advertise with ANN Help FAQ Report a Problem Bugs & Technical Questions Forum Login or Register forgot it?
+remember me Login with Facebook Login with Twitter No account yet?
+Registering is free , easy , and private .
+Discuss in the forum, contribute to the Encyclopedia, build your own MyAnime lists, and more.
+You must be at least 13 years old.
+× remind me tomorrow remind me next week never remind me Subscribe to the ANN Newsletter • Wake up every Sunday to a curated list of ANN's most interesting posts of the week.
+read more News Vicky the Viking Anime Adapted into Live-Action Film posted on 2008-01-07 12:52 EST by Egan Loo google_ad_section_start INFOLINKS_ON Anime based on Swedish Vicke Viking children's book by Runer Jonsson Germany's Der Spiegel magazine and The Hollywood Reporter entertainment trade newspaper have reported that Vicke Viking , the German/Japanese animated comedy adventure series that was a hit in both Europe and Japan, will be adapted into a live-action film by German director Michael Herbig.
+Herbig directed four films based on his Bullyparade comedy show, and the films have been among the top grossing films in Germany.
+Herbig is casting the Vicky the Viking film before shooting begins in the summer, and the Constantin Film and Rat Pack production companies are planning for a 2009 release.
+The Zuiyo Eizō animation studio based its 1974-1975 Chiisana Viking Vicke series on the Vicke Viking children's book by the Swedish author Runer Jonsson .
+Zuiyo Eizō would eventually become Nippon Animation , the studio that could continue the tradition of adapting Western children's books from Heidi ( Alps no Shōjo Heidi ) and Anne of Green Gables to Peter Pan ( Peter Pan no Bōken ) and Les Orphelins de Simitra ( Porphy no Nagai Tabi ) .
+Chiisana Viking Vicke 's story revolves around a plucky Viking boy who gets his father out of tight situations during their voyages.
+Manga creator Eiichiro Oda has said that Chiisana Viking Vicke asserted a strong influence on his One Piece pirate manga and anime.
+Thank you to Daniel Zelter and Thorsten Meyer for the news tip.
+INFOLINKS_OFF source: ... bookmark/share with: News homepage / archives google_ad_section_end RightStuf - Anime, Manga and More ⬈ ⬋ - + news 18 comments Original Naruto Anime Gets 4 Brand-New Episodes for 20th Anniversary Mar 10, 18:22 18 comments anime New episodes slated for September, after selected earlier episodes rerun in Japan in July ― The official website for the Naruto anime franchise announced on Thursday that the Naruto television anime will air four "brand-new" episodes starting in September to celebrate its 20th anniversary.
+(The Naruto television anime debuted in October 2002.)
+Selected earlier episodes of the Naruto anime will also ... news 25 comments Boruto Anime Ends Part I on March 26, With Part II Confirmed Mar 10, 18:22 25 comments anime 293rd episode to be 'Part I' finale ― The official website for the Boruto: Naruto Next Generations anime announced on Thursday that the anime's 293rd episode on March 26 will be the final episode of anime's "Part I."
+The website also confirmed that production on "Part II" of the anime has been green-lit.
+Viz Media is simulcasting the Boruto: Naruto Next Generations series on Hulu as it airs in Japan,... news 7 comments New Pokémon Anime Reveals 4 More Cast Members Mar 10, 18:22 7 comments anime Ayane Sakura, Kenta Miyake, more join cast ― The Pokémon Company revealed four more cast members on Friday for the new anime in the Pokémon franchise.
+The new characters are part of the "Rising Volteckers" group that Professor Friede leads.
+The group uses an airship as their base.
+The new cast includes (in order of appearance in the above video, character name spellings not confirmed) Ayane Sakura as... news 2 comments Gundam: The Witch From Mercury Anime Season 2's Trailer Reveals yama's Opening Song Mar 10, 18:21 2 comments anime yama performs opening theme "slash" ― Bandai Namco Filmworks' Gundam Info YouTube channel began streaming a trailer for the second season of the Mobile Suit Gundam: The Witch From Mercury anime on Thursday.
+The trailer reveals and previews the second season's new opening theme song "slash" by yama, and also confirms that the second season will also have simultaneous streaming.
+The official website fo... news 11 comments My Hero Academia Manga Takes 2-Week Break Due to Author's Health Mar 10, 18:20 11 comments manga Manga previously took breaks in February, December due to author's health ― The official Twitter account for Kohei Horikoshi's My Hero Academia manga announced on Friday that the manga is taking a two-week break due to Horikoshi's poor health.
+The manga will not appear in the 15th issue of Weekly Shonen Jump on Monday and the 16th issue on March 20.
+The manga will return in the 17th issue on March 27... review Blue Thermal Mar 10, 12:00 anime There's nothing that's actively bad about the movie, and a likable protagonist goes a long way towards keeping things breezy and enjoyable, but its pleasures are mild, and the experience of watching it is almost instantly forgettable.
+― Blue Thermal fits into the genre of slice-of-life anime centered around students partaking in a school club together.
+Somewhat unusual for the genre, it takes place i... column 8 comments This Week in Games - Welcome To The Next Saiyan Level Mar 10, 11:00 8 comments games It's Ángel's birthday, so Jean-Karlo takes the opportunity to gush about the beloved KOF character and SNK games' unique history in Mexico.
+Also, Twitch cracks down on deepfakes, Dragon Ball Z: Budokai Tenkaichi returns and more in This Week in Games!
+― Welcome back, everyone!
+I hope you're looking forward to starting your weekend with some game news!
+I could definitely use a break, I had a very busy... feature 5 comments The Double Writer's Guide to Kamen Rider Mar 10, 09:00 5 comments live-action With Hideaki Anno's Shin Kamen Rider hitting Japanese theaters, now's a good time to sink into the series.
+Here's a guide on the best films and shows available in North America.
+― With Hideaki Anno's Shin Kamen Rider hitting Japanese theaters, we decided it may not be a bad time to take a look at the slowly but surely growing collection of Kamen Rider series and films available in North America.
+In t... news 17 comments Code Geass, GaoGaiGar Character Designer Takahiro Kimura Passes Away Mar 10, 01:39 17 comments people Animator was dealing with amyloidosis ― The official website for the Code Geass franchise announced on Thursday that character designer and animator Takahiro Kimura passed away on March 5, after battling amyloidosis.
+Kimura designed the characters or adapted the original character designs for such anime as the Code Geass franchise, GaoGaiGar: King of the Braves, Betterman, Dirty Pair Flash, Brigadoo... review 2 comments Blue Box GN 3 Mar 9, 12:00 2 comments manga Regardless of where the romantic component of the story goes, if it continues to develop its theme of straightforward dedication with believably emotional moments, I definitely will find myself constantly coming back to the series.
+― I wouldn't go so far as to call Blue Box a traditional sports manga.
+The story doesn't really go into the mechanics of badminton or basketball.
+Even though the artwork i... column 1 comment This Week in Anime - And the Award for Best Anime Awards Goes To... Mar 9, 09:00 1 comment industry Beyond arguing about whether your fave made it in, what's the point of anime awards?
+Chris and Nicky discuss the pros of the various fan and industry awards ceremonies.
+― Beyond arguing about whether your fave made it in, what's the point of anime awards?
+Chris and Nicky discuss the pros of the various fan and industry awards ceremonies.
+Disclaimer: The views and opinions expressed by the participan... game review 1 comment PARANORMASIGHT: The Seven Mysteries of Honjo Mar 8, 10:00 1 comment games While missed opportunities keep PARANORMASIGHT from being a truly standout game, I still enjoyed the process of uncovering the story, even if it goes into some truly off-the-wall directions in its end-game content.
+― PARANORMASIGHT: The Seven Mysteries of Honjo is a horror visual novel written and created for me, personally.
+I do not know how director and scenario writer Takanari Ishiyama tapped into... feature 1 comment Hands-on With NARUTO×BORUTO VR Mar 8, 09:00 1 comment events Ever wanted to run around the Hidden Leaf Village to team up with Naruto and friends to fight ninjas?
+Then have I got the game for you.
+― Ever wanted to run around the Hidden Leaf Village to team up with Naruto and friends to fight ninjas?
+Then have I got the game for you.
+From March 21 to May 28, NARUTO×BORUTO VR will be playable on the fourth floor of DiverCity in Odaiba, Tokyo.
+ANN was able to try... game review FATAL FRAME: Mask of the Lunar Eclipse Mar 8, 08:00 games Fatal Frame: Mask of the Lunar Eclipse sadly never came to the United States to the disappointment of many fans fifteen years ago.
+KOEI Tecmo is here to right that old wrong, giving us the long-awaited localization.
+Was it worth the wait?
+― Fatal Frame: Mask of the Lunar Eclipse sadly never came to the United States in 2008, to the disappointment of many fans fifteen years ago.
+KOEI Tecmo is here to ... your score 5 comments Your Anime Rankings - Best of Winter 2023, Feb 26-Mar 4 Mar 7, 17:00 5 comments anime After a slow start to the season, Miss Nagatoro climbs into the cumulative top 10!
+Find out where your favorite shows rank this week.
+― Let's have a look at what ANN readers consider the best (and worst) of the season,based on the polls you can find in our Daily Streaming Reviewsand on the Your Score page with the latest simulcasts.
+Keep in mind that these rankings are based on how people rated in... review 9 comments Immoral Guild Mar 7, 12:00 9 comments anime So here it is: Immoral Guild is a horny anime.
+How horny?
+Monstrously.
+― I briefly considered burying the lede at the beginning of this review as a joke by acting like Immoral Guild was some decently distinctive little fantasy sitcom if not for just one little caveat that I forgot to mention.
+But that's disingenuous.
+It does put "Immoral" right there in the title, after all, and makes no secret what ... column 34 comments This Week in Anime - The Cutthroat World of Shonen Jump Manga Mar 7, 09:00 34 comments manga Steve and Nick try to parse what makes for a winning formula in the highly competitive manga magazine, if such a thing even exists.
+― If you're an avid Shonen Jump reader, you've likely experienced the heartache of your favorite series getting tossed in the bin.
+Steve and Nick try to parse what makes for a winning formula in the highly competitive magazine, if such a thing even exists.
+These manga a... All material Copyright © Anime News Network LLC.
 All rights reserved.
-Interest-Based Ads .
-Cookie Policy .
-Powered by WordPress VIP End Footer
+served by ruka-chan Report a Problem × News Convention reports Newsfeed Interest Press Releases Views Features Reviews Columns New Anime Your Score for Recent Simulcasts Upcoming Anime List Upcoming DVD & Blu-ray Weekly Rankings Winter 2023 Preview Guide Daily Streaming Reviews Encyclopedia Forum My ANN Subscribe » My Anime My Manga Newsletter ANN:Connect About Our Team Contact us Staff openings Privacy policy Copyright policy Advertise with ANN FAQ Report a Problem Bugs & Technical Questions Forum foot Infolinks disabled

@@ -1,27 +1,6 @@
 
  
- 
-  Skip Nav  
-   Skip to Main Content   
-  End Skip Nav  
- 
- 
- 
- USA TODAY 
-  EdSysObj ID="usat-masthead-label" FRAGMENTID="41449028" appadmin  #include virtual="/_common/_includes/_inside2011/masthead-label.ssi"  /EdSysObj  
-  EdSysObj ID="usat-masthead-search" FRAGMENTID="41370344" appadmin  #include virtual="/_common/_includes/_inside2011/masthead-search-marketing.ssi"  /EdSysObj  
-  EdSysObj ID="usat-masthead-UAS" FRAGMENTID="41426986" appadmin  #include virtual="/_common/_includes/_inside2011/usat-uas.ssi"  /EdSysObj  
-  EdSysObj ID="usat-global-nav" FRAGMENTID="41311622" appadmin  #include virtual="/_common/_includes/_inside2011/masthead-nav-global.ssi"  /EdSysObj  
- 
- 
- section nav start 
-  EdSysObj ID="usat-ssts-nav" FRAGMENTID="41319104" appadmin  #include virtual="/_common/_includes/_inside2011/masthead-subnav.ssi"  /EdSysObj  
-  section nav end  
- 
- 
- 
- 
-  EdSysObj ID="usat-breaking-news" FRAGMENTID="41405282" rberthol  #include virtual="/_common/_includes/_inside2011/breaking-news.ssi"  /EdSysObj  
+  BEGIN WAYBACK TOOLBAR INSERT  
  
  
  
@@ -29,128 +8,1037 @@
  
  
  
- End series_nav_bar div 
- startclickprintinclude 
- 
- 
-  EdSysObj ID="SandboxLede" FRAGMENTID="49329768" newsgate  
- 'Breaking Bad' shows man at his worst in Season 4 
- 
- By Scott Bowles, USA TODAY 
- 
- Updated   | 
-    |    
- Share 
- 
- 
- 
- Reprints & Permissions There's something about the way Jesse Pinkman is reaching into his jacket that isn't quite threatening enough for  Vince Gilligan . 
  
  
  
  
- Photos by Ben Leuner, , AMC 
- Not your average family guy:  Anna Gunn and Bryan Cranston are back for another tension-filled, blood-soaked season of  Breaking Bad , which premieres Sunday (AMC, 10 p.m. ET). 
- 
- 
- 
- Enlarge Close 
- 
- 
- Photos by Ben Leuner, , AMC 
- Not your average family guy:  Anna Gunn and Bryan Cranston are back for another tension-filled, blood-soaked season of  Breaking Bad , which premieres Sunday (AMC, 10 p.m. ET). 
  
  
  
  
- "Can we slow that down?" Gilligan says from the editing bay of his offices for  AMC 's  Breaking Bad , where the show's creator is putting the finishing touches on an episode from  Bad 's  fourth season, which premieres Sunday night (10 ET/PT). 
- Gilligan, 44, a devotee of Westerns, leans forward at the center of three flat screens displaying the shot. 
- The scene seems unnerving enough. Set against a sandstorm in Albuquerque, where the series is shot, Pinkman (Aaron Paul) looks like a dead man — again. He's talking big, sweating hard and doing little to rattle grizzled henchman Mike (Jonathan Banks), who ferries Pinkman to a deserted windmill. Desperate, Pinkman scans the car for something sharp. 
- 
- 
- PHOTOS:  Re-introduce yourself to the 'Breaking Bad' cast 
- 
- 
- "Can we Sergio Leone-y that a bit?" Gilligan says, a reference to the director of  The Good, the Bad and the Ugly  and  A Fistful of Dollars . "I'd like it to have a little more gunslinger element to it." 
- Gilligan has been devising gun- and drug-slinging elements since he approached AMC five years ago with the idea of a high school chemistry teacher (Bryan Cranston) who discovers he has lung cancer. To secure a nest egg for his family, he cooks crystal methamphetamine with the help of a student he once flunked (Paul). 
- Since premiering in 2008,  Breaking Bad  has become a critical darling and found some unexpected fans. Cranston became the first actor to win three straight best-dramatic-acting Emmys.  Time  magazine named it "TV's best thriller."  Demi Moore  and  Ashton Kutcher  made gossip rags when they said they marked  their fifth anniversary with a quiet night in bed watching  Breaking Bad . 
- Other fans are getting hooked on cable crystal meth. Last year, the show averaged 2 million viewers a week. AMC's smash  Mad Men  averaged 2.5 million in its third year. 
- So what's Gilligan's plan for this season, which picks up where Season 3 ended: with a pistol an inch from an unarmed man's face? 
- Gilligan wants to get darker. 
- Good luck with that. In addition to collecting statuettes,  Bad  is pushing how much violence basic cable can get away with. Consider some of the show-enders last year: a man getting his brains blown out and two dealers being flattened by Walt White's putrid  Pontiac Aztek . 
- How do you trump that? 
- "It's all about the heroes," says Gilligan, a Richmond, Va., native who heard the term "breaking bad" from parents clucking that a kid was raising hell. 
- "If you look at shows like  Gunsmoke  or  M.A.S.H , both of which I loved, the only way you knew time was passing was that the actors looked older," he says. "They were the same heroes, which is comforting for people." 
- In  Bad , "we want to make Walt White a truly bad guy. He's going from being a protagonist to an antagonist. We want to make people question who they're pulling for, and why." 
- Cable gets more gruesome 
- Actors have found themselves asking the same question. Paul remembers getting the script for Season 2's "Negro Y Azul," which called for a snitch to have his decapitated head mounted on a turtle emblazoned with the words "HOLA DEA." When an agent removes the head, the turtle explodes, sending body parts across the desert. 
- "The first time I saw that, I said, 'Well, that'll never get on television,'" says Paul, who was supposed to die a gruesome death at the end of Season 1 but had become a fan favorite. "You're going to cut a guy's head off, then blow up the tortoise? Come on. How do you expect to get away with that?"  
- Increasingly, shows are getting away with just that, particularly on AMC. In addition to  Breaking Bad , AMC's monster thriller  The  Walking Dead  has feasted on human brains and zombie guts in high-def detail. "I'm not sure anything's too graphic anymore," says actor Noah Emmerich, who had a brief stint on  Dead . "Maybe there's some sex you can't show, but the violence is like anything you'd see in the movies." 
- Even movie stars know the leeway has swung to television.  Seth Rogen , who starred in Fox's college comedy  Undeclared , recalls rehearsing risqué or foul-mouthed scenes and thinking, "We'd never get to do that (in movies) and still have a PG-13." 
- "Happened almost every day on set," says Rogen, who starred in his share of adult-themed films, such as  Pineapple Express  and  Superbad . "It really makes the movie ratings system a joke." 
- It can also call into question  TV's limits. Warning: The following blood-spattered scenes could spoil  Breaking Bad  episodes for fans not up to speed — and the appetites of those who are: 
- •In Season 3's "One Minute," a final shootout as complexly staged as a  John Cassavetes  film leaves one man with his legs snapped, another with his skull gaping and DEA Agent Hank Schrader (Dean Norris), Walt's brother-in-law, bloodied and partially paralyzed. 
- •Later that season, in "Half Measures," Walt eliminates competition by crushing them with his car — and executing a young survivor with a pistol shot to the head. 
- •In "Peekaboo," from Season 2, the focus is on Pinkman and includes a guy's skull getting crushed by a stolen ATM. "After that, people saw Walt and Jesse as more of a family," Gilligan says. "It became a two-person show." 
- Whether it stays that way is anyone's guess. Where fans of, say,  MacGyver  may ask how their heroes will get out of this one,  Breaking Bad  fans ask whether they actually will. 
- Cranston recalls Gilligan's first pitch to the actor: "Mr. Chips meets Scarface." What Cranston got was Mr. Chips meets Scarface — then strangles Scarface with a bicycle lock (from Season 1's "And the Bag's in the River"). 
- "He doesn't worry about keeping the characters sympathetic," Cranston says. "He concentrates on keeping them real." 
- That reality can be a bit much, even for veterans of the show. At the Los Angeles premiere of Sunday's Season 4 opener, Cranston's teenage daughter Taylor fainted at one gruesome scene, which AMC had already trimmed by three seconds to make it less sickening.  (She recovered without need for medical attention.) 
- Its not for everyone 
- "Sometimes, watching it, you realize it can be as brutal as the script, which seemed impossible when you first read it," Cranston says. "You've got to wonder where Vince gets his ideas." 
- Unemployment helps. After writing 30 episodes of  The X-Files , Gilligan and former  X-Files  scribe  John Shiban  were mulling their next career moves. 
- Gilligan suggested Walmart greeter. "We wouldn't have to take our jobs home with us," he says. Shiban suggested the two cook crystal meth in an RV and roam the country peddling. 
- Gilligan loved the idea, conceptually speaking. He asked Shiban if he could run with it and "started pacing around, panicked in my backyard, trying to do something with this great idea." 
- In essence, Gilligan says, he used himself as a model. "I wanted a guy, maybe middle-aged, straight arrow, suddenly faced with his world crumbling. What would you do if you really faced what Walt's facing?" 
- Whatever White faced, Gilligan decided, it would not be without consequence. Even on  X-Files , Gilligan concedes, "I'd write a scene where (Agent) Mulder shoots somebody, and you never hear about it again. That's not what happens in real life. In real life, you have to do something with the body." 
- Like melt it in a bathtub of acid, a scene from the first season (revisited Sunday) that proved so graphic Cranston and Paul got nauseated from the fake entrails, which Gilligan had coroners' help to make look real. 
- "Vince wants everything to be authentic," says  Giancarlo Esposito , the icy drug kingpin who employs White and Pinkman. "They build real drug labs. They have us hold kilos." 
- Gilligan says he was prepared for a round of rejections because he wanted the show to be an unflinching look at the drug trade from the eyes of a suburban drone. He sold the idea to Sony Pictures executives, who accompanied him to an assortment of networks. 
- With the graphic crime stories  The Wire  and  The Sopranos  in its catalog,  HBO  passed. So did  TNT , which Gilligan expected. (He  offered it to them because he loves the network's Westerns.) 
- Showtime was interested but said it was too similar to  Weeds , the network's show about a suburban mom who sells marijuana. 
- "I said, 'What's  Weeds ?'" Gilligan recalls. "I must have looked like an idiot. When they told me, the blood left my face. I asked the Sony guys how they could let me pitch it. They said it sounded different enough. I said, 'What are you talking about? That's exactly the same.' If I had subscribed to Showtime, there never would have been a  Breaking Bad ." 
- AMC president Charlie Collier says that after  Mad Men 's success, "we were getting pitched every period piece under the sun. We were looking for something modern, something that would be different than anything on basic cable television." 
- Done, Paul says:  "I know you're not supposed to say this in television, but it's not for everyone. That's something we're really proud of." 
- #include virtual="/_common/_includes/_inside2011/content-corrections.ssi" 
- 
- Posted   | Updated  
- Share 
- 
- #include virtual="/_common/_includes/_inside2011/content-related-stories.ssi" #include virtual="/_common/_includes/_inside2011/content-pluck.ssi" 
- 
-  /EdSysObj  
- endclickprintinclude 
- 
- /.story 
  
  
  
+ 70 captures 
+ 10 Jan 2008 - 19 Feb 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  NEXT/PREV MONTH NAV AND MONTH INDICATOR  
+ 
+ Sep 
+ JAN 
+ Oct 
+ 
+  NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR  
+ 
+ 
+ 02 
+ 
+ 
+  NEXT/PREV YEAR NAV AND YEAR INDICATOR  
+ 
+ 2012 
+ 2014 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ success 
+ fail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   About this capture 
+ 
+ 
+ 
+ 
+ 
+ COLLECTED BY 
+ 
+ 
+ 
+		Organization:  Internet Archive 
+ 
+ 
+	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+ 
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+ 
+The goal is to  fix all broken links on the web . 
+
+Crawls of supported "No More 404" sites.
+	 
+ 
+ 
+ 
+ Collection:  Wikipedia Near Real Time (from IRC) 
+ 
+ 
+	  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+ 
+ 
+This is part of the Internet Archive's attempt to  rid the web of broken links .
+	 
+ 
+ 
+ 
+ 
+ TIMESTAMPS 
+ 
+ 
+ 
+ 
+ 
+ The Wayback Machine - https://web.archive.org/web/20140102225825/http://www.animenewsnetwork.com/news/2008-01-07/vicky-the-viking-anime-adapted-into-live-action-film 
+ 
+  END WAYBACK TOOLBAR INSERT  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UK &
+Ireland 
+ 
+ USA & Canada 
+ UK & Ireland 
+ Australia & New-Zealand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  anywhere on the site 
+  in the encyclopedia 
+  in the forums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Today's News 
+ 
+ 21:56   Crunchyroll to Stream  Witch Craft Works  Anime 
+ 
+ 
+ 21:01   New  Pilot's Love Song  TV Ad Previews Aoi Yūki, Ayana Taketatsu's Theme Song 
+ 
+ 
+ 20:10   Sentai Filmworks Adds  Hōzuki no Reitetsu  Supernatural Anime 
+ 
+ 
+ 19:08   Crunchyroll to Stream  Strange+  Gag Anime 
+ 
+ 
+ 18:45   Yaoi Artist Est Em to Attend Toronto Comic Arts Festival 
+ 
+ 
+ 17:58   Crunchyroll to Stream  Mikakunin de Shinkōkei  Comedy Anime 
+ 
+ 
+ 13:47   MVM Acquires  Accel World ,  We Without Wings ,  Chrome Shelled Regios 
+ 
+ 
+ 06:30   Kuroko's Basketball  Incidents Suspect Gives Message to 2chan Users 
+ 
+ 
+ 06:06   Kanojo ga Flag o Oraretara  Anime's 1st Promo Streamed 
+ 
+ 
+ 06:00   2-Minute  Cheese Napolitan  Anime Special Streamed 
+ 
+ » archives 
+ Newsfeed 
+ 
+ 
+ Press Releases 
+ 
+ 21:15   Gay Manga Finds a New Home at Fantagraphics Books 
+ 
+ 
+ 20:42   Sentai Filmworks licenses  "Hozuki no Reitetsu" 
+ 
+ 
+ 17:05   May'n Reveals Album Title and Jacket Art for 10th Anniversary Album 
+ 
+ 
+ Dec 30   Future Card Buddyfight  TV Animation Streams on Hulu and YouTube 
+ 
+ 
+ Dec 30   Matsuricon Announces The First of Several Guests for 2014 
+ 
+ 
+ Dec 30   Anime Dating Website Surpasses 20,000 Users 
+ 
+ Convention reports 
+ 
+ Oct 11   New York Comic Con 2013 
+ 
+ 
+ Sep 20   Nan Desu Kan 2013 
+ 
+ 
+ Aug 23   Japan Expo USA 2013 
+ 
+ 
+ 
+ 
+ 
+ Views 
+ 
+ 
+ Columns 
+ 
+ 17:00   House of 1000 Manga - Case Closed 
+ 
+ 
+ Dec 31   RIGHT TURN ONLY!! - Death and Rebirth 
+ 
+ 
+ Dec 29   The Mike Toole Show - Anime Sunday School 
+ 
+ 
+ Dec 28   The List - 7 Expert Anime Hackers 
+ 
+ 
+ Dec 27   Answerman - Hung Over 
+ 
+ 
+ Dec 23   ANNCast Holiday Special 2013: Yankee Swap 
+ 
+ 
+ Dec 23   Shelf Life - Last Second Gift Guide 
+ 
+ 
+ Dec 22   Astro Toy - Cu-Poche Mami Tomoe 
+ 
+ 
+ Dec 18   The X Button - Littered Picks 
+ 
+ 
+ Dec 18   It's The Anime News Nina Kickstarter! 
+ 
+ 
+ Oct 8   The Stream - Last Call 
+ 
+ » more columns 
+ 
+ 
+ Reviews 
+ 
+ 17:00   Naruto Shippuden DVD Set 16 
+ 
+ 
+ Jan 1   One Piece DVD Season 5 Part 3 
+ 
+ 
+ Dec 31   Is This a Zombie? of the Dead DVD 
+ 
+ 
+ Dec 30   Sakura Wars: The Movie BD+DVD 
+ 
+ 
+ Dec 28   Sword Art Online Blu-Ray 2 
+ 
+ 
+ Dec 27   Galilei Donna Episodes 1-6 Streaming 
+ 
+ 
+ Dec 26   One Piece DVD Season 5 Part 2 
+ 
+ 
+ Dec 25   Maken-Ki! Battling Venus BD+DVD 
+ 
+ Other 
+ Features 
+ Interviews 
+ 
+ 
+ 
+ 
+ New Anime 
+ 
+ 
+ Upcoming Anime List 
+ Upcoming DVD & Blu-Ray 
+ 
+ 
+ 
+ Winter 2014 Anime Spotlight 
+ Space Dandy 
+ 
+ » previous seasons 
+ 
+ 
+ 
+ Fall 2013 Preview Guide 
+ Zac Bertschy 
+ Theron Martin 
+ Carl Kimlinger 
+ Rebecca Silverman 
+ Carlo Santos 
+ Bamboo Dong 
+ 
+ » previous seasons 
+ 
+ 
+ 
+ 
+ Encyclopedia 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Top 10 
+ Licensed 
+ Latest in Japan 
+ 
+ Upcoming TV series ,
+           movies ,
+           OAVs 
+ 
+ Manga 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Top 10 
+ Licensed 
+ Latest in Japan 
+ 
+ 
+ People 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most prolific cast 
+ Most prolific staff 
+ Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This month 
+ 
+ 
+ Companies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Licensors 
+ Lexicon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tools 
+ Search by genre, theme, year 
+ TODO: link to add anime/person to comparison when at anime/person page  
+ Comparison tool 
+ Personal settings 
+ more » 
+ 
+ 
+ 
+ 
+ 
+ 
+ Video 
+ 
+ 
+ Anime 
+ Saint Seiya Omega (s) - 84 
+ Hunter x Hunter (s) - 110 
+ Naruto Shippuden (s, uncut) - 343 - Who Are you? 
+ Folktales from Japan (s) - 82 
+ Space Brothers (s) - 79 - Olga, Hibito, and Gagarin 
+ 009 Re:Cyborg - 	009 Re:Cyborg 
+ Saki Episode of Side A (s) - 16 - The Path 
+ Aoi Sekai no Chushin de (s) - 3 - Lost Star and Kid 
+ Ixion Saga DT (s) - 25 - Kon of Knack 
+ Fairy Tail (s) - 175 - Natsu vs. the Twin Dragons 
+ 
+ 
+ Trailers 
+ Beyond the Boundary 
+ My Mental Choices Are Completely Interfering With My School Romantic Comedy 
+ I couldn't become a hero, so I reluctantly decided to get a job. 
+ Samurai Flamenco 
+ Outbreak Company 
+ Yowamushi Pedal 
+ Unbreakable Machine-Doll 
+ Non Non Biyori 
+ Freezing Vibration 
+ Golden Time 
+ 
+ 
+ 
+ 
+ Forum 
+ 
+ 
+ Forum Categories 
+ UK 
+ Site-Related 
+ General 
+ Industry 
+ For Subscribers 
+ 
+ 
+ Forums 
+ Talkback 
+ Anime 
+ Manga 
+ Encyclopedia 
+ Feedback 
+ Retail 
+ Community 
+ 
+ 
+ Forum Information 
+ Search 
+ FAQ 
+ Usergroups 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Our Team 
+ Contact us 
+ Staff openings 
+ 
+ 
+ Privacy policy 
+ FAQ 
+ Advertise with ANN 
+ 
+ 
+ Help 
+ Bugs & Technical Questions Forum 
+ Bug tracker 
+          ▸  Report a bug 
+ 
+ 
+ 
+ 
+ 
+ My ANN 
+ 
+ 
+ Public 
+ Public Anime Lists 
+ Surveys 
+ Contests 
+ 
+ 
+ Subscribers 
+ Subscribe » 
+ 
+ 
+ Personal 
+ My Anime 2 
+ My Anime 
+ My Manga 
+ Change skin 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login or Register 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ forgot it? 
+  remember me 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login with Facebook 
+ 
+ 
+ Login with Twitter 
+ 
+ 
+ 
+ 
+ No account yet?
+           Registering  is  free ,  easy , and  private .
+          Discuss in the forum, contribute to the Encyclopedia, build your own MyAnime lists, and more.
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News  Vicky the Viking Anime Adapted into Live-Action Film 
+ 
+ 
+ 
+  google_ad_section_start  
+ 
+ INFOLINKS_ON 
+ Anime based on Swedish  Vicke Viking  children's book by  Runer Jonsson 
+ 
+ 
+ 
+ 
+  Germany's  Der Spiegel  magazine and  The Hollywood Reporter  entertainment trade newspaper  have   reported  that  Vicke Viking , the German/Japanese animated comedy adventure series that was a hit in both Europe and Japan, will be adapted into a live-action film by German director Michael Herbig. Herbig directed four films based on his  Bullyparade  comedy show, and the films have been among the top grossing films in Germany. Herbig is casting the  Vicky the Viking  film before shooting begins in the summer, and the Constantin Film and Rat Pack production companies are planning for a 2009 release.
+ 
+ 
+The  Zuiyo Eizo  animation studio based its 1974-1975  Chiisana Viking Vicke  series on the  Vicke Viking  children's book by the Swedish author  Runer Jonsson .  Zuiyo Eizo  would eventually become  Nippon Animation , the studio that could continue the tradition of adapting Western children's books from  Heidi  ( Alps no Shōjo Heidi ) and  Anne of Green Gables  to  Peter Pan  ( Peter Pan no Bōken ) and  Les Orphelins de Simitra ( Porphy no Nagai Tabi ) .  Chiisana Viking Vicke 's story revolves around a plucky Viking boy who gets his father out of tight situations during their voyages. Manga creator  Eiichiro Oda  has said that  Chiisana Viking Vicke  asserted a strong influence on his  One Piece  pirate manga and anime.
+ 
+ 
+Thank you to Daniel Zelter and Thorsten Meyer for the news tip. 
+ 
+ 
+ INFOLINKS_OFF 
+ 
+ 
+ source: ... 
+ discuss this in the forum  |
+ 
+ 
+  bookmark/share with:
    
- Advertisement 
- 
- End rightrail ad 
-  EdSysObj ID="sidebar2" FRAGMENTID="41370894" appadmin  #include virtual="/_common/_includes/_inside2011/sidebar-most-popular.ssi"  /EdSysObj  
-  EdSysObj ID="sidebar4" FRAGMENTID="41448888" appadmin  #include virtual="/_common/_includes/_inside2011/sidebar-newsletter.ssi"  /EdSysObj  
-  EdSysObj ID="sidebar6" FRAGMENTID="41449102" appadmin  #include virtual="/_common/_includes/_inside2011/sidebar-2x-search.ssi"  /EdSysObj  
-  EdSysObj ID="sidebar8" FRAGMENTID="41474260" rberthol  #include virtual="/_common/_includes/_inside2011/sidebar-promo.ssi"  /EdSysObj  
- 
- 
- 
-  EdSysObj ID="usat-footer-01" FRAGMENTID="41312930" appadmin  #include virtual="/_common/_includes/_inside2011/footer-services.ssi"    /EdSysObj  
- 
- 
- 
-  EdSysObj ID="usat-footer-02" FRAGMENTID="41312222" appadmin  #include virtual="/_common/_includes/_inside2011/footer-nav.ssi"  /EdSysObj  
  
  
  
  
-  EdSysObj ID="footer_usat_content" FRAGMENTID="41475024" appadmin  #include virtual="/_common/_includes/_inside2011/footer-slider.ssi"  /EdSysObj  
- End toggleContent div 
  
- End content div 
  
- End custom-doc div 
-  EdSysObj ID="script_container4" FRAGMENTID="41312048" appadmin  #include virtual="/_common/_includes/_inside2011/footer-global.ssi"  /EdSysObj  
+ 
+ 
+ 
+ 
+ 
+  google_ad_section_end  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Robert's Anime Corner Store 
+ 
+ 
+ 
+ 
+ 
+ Visit AniplexUSA.com 
+ 
+ 
+ 
+ 
+ 
+ RightStuf - Anime, Manga and More 
+ 
+ 
+ 
+ Around The Web 
+ 
+ 
+ 
+ 
+ 
+ 
+ ⬈ 
+ ⬋ 
+ - 
+ + 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          column
+         
+ 17 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ House of 1000 Manga - Case Closed 
+ 
+ 
+ 
+            Jan 2, 17:00
+           17 comments 
+ 
+ 
+ 
+ 
+ Shaenon investigates the strange tale of a children's mystery manga that somehow made it to 50+ volumes in the US. One truth prevails! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          review
+         
+ 0 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Naruto Shippuden DVD Set 16 
+ 
+ 
+ 
+            Jan 2, 17:00
+           0 comments 
+ 
+ 
+ 
+ 
+ After a regrettable run of filler episodes, Naruto Shippuden acquits itself nicely in this volume, returning to the main storyline and delivering both plot and action. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          feature
+         
+ 102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime Spotlight-Nobunaga The Fool 
+ 
+ 
+ 
+            Jan 2, 17:00
+           102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          review
+         
+ 5 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ One Piece DVD Season 5 Part 3 
+ 
+ 
+ 
+            Jan 1, 17:00
+           5 comments 
+ 
+ 
+ 
+ 
+ Last volume was a horror show of delaying tactics. This volume is the payoff: twelve pure episodes of what One Piece does best. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          column
+         
+ 26 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ RIGHT TURN ONLY!! - Death and Rebirth 
+ 
+ 
+ 
+            Dec 31, 17:00
+           26 comments 
+ 
+ 
+ 
+ 
+ It's the end of an era as Carlo shares his opinions on the latest manga (No. 6, Knights of Sidonia, Sunshine Sketch, and more) one last time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          review
+         
+ 6 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Is This a Zombie? of the Dead DVD 
+ 
+ 
+ 
+            Dec 31, 17:00
+           6 comments 
+ 
+ 
+ 
+ 
+ Is This a Zombie? Of the Dead may be light on plot, but it's pretty heavy on laughs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          feature
+         
+ 102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime Spotlight-Magical Warfare 
+ 
+ 
+ 
+            Dec 31, 17:00
+           102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          feature
+         
+ 102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime Spotlight-Sakura Trick 
+ 
+ 
+ 
+            Dec 30, 22:17
+           102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          feature
+         
+ 102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime Spotlight - Space Dandy 
+ 
+ 
+ 
+            Dec 30, 21:00
+           102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          review
+         
+ 9 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sakura Wars: The Movie BD+DVD 
+ 
+ 
+ 
+            Dec 30, 17:00
+           9 comments 
+ 
+ 
+ 
+ 
+ While this movie may hold nostalgia value for some and is a visual treat, the visuals alone are not enough to warrant recommending this to anyone who is not an established fan of the franchise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          review
+         
+ 102 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sword Art Online Blu-Ray 2 
+ 
+ 
+ 
+            Dec 28, 17:00
+           102 comments 
+ 
+ 
+ 
+ 
+ Aincrad doesn't come with a perfect wrap up, but it does show us why Sword Art Online was one of the most talked about programs of its season. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          review
+         
+ 43 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Galilei Donna Episodes 1-6 Streaming 
+ 
+ 
+ 
+            Dec 27, 17:00
+           43 comments 
+ 
+ 
+ 
+ 
+ Hangs onto only enough winning weirdness and sisterly charm to remain a kind of fitfully functioning diversion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       All material Copyright © 1998-2014 Anime News Network. All rights reserved. 
+ served by kurisu-chan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ foot 
+ 
+ 
+ 
  
  
