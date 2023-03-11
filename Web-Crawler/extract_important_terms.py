@@ -8,6 +8,7 @@
             3. clean_text
 """
 
+import math
 import pathlib
 import nltk
 from nltk import word_tokenize
@@ -17,7 +18,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 
-def create_tf_dict_(doc):
+def create_tf_dict(doc):
     tokens = word_tokenize(doc)
     tokens = [t for t in tokens if t.isalpha() and t not in stopwords.words('english')]
 
@@ -32,6 +33,23 @@ def create_tf_dict_(doc):
     return tf_dict
 
 
+def create_idf_dict(tf_dicts):
+    idf_dict = {}
+
+    # make the vocabularies
+    vocab = set()
+    vocab_by_doc = list()
+    for tf_dict in tf_dicts:
+        vocab = vocab.union(tf_dict.keys())
+        vocab_by_doc.append(tf_dict.keys())
+
+    for term in vocab:
+        num_docs_containing_t = ['x' for v in vocab_by_doc if term in v]
+        idf_dict[term] = math.log((1 + len(tf_dicts)) / (1 + len(num_docs_containing_t)))
+
+    return idf_dict
+
+
 def main():
     docs = []
     for i in range(1, 16):
@@ -42,8 +60,18 @@ def main():
     # generate term frequency dictionaries
     tf_dicts = []
     for doc in docs:
-        new_dict = create_tf_dict_(doc)
+        new_dict = create_tf_dict(doc)
         tf_dicts.append(new_dict)
+
+    # make the idf dict
+    idf_dict = create_idf_dict(tf_dicts)
+
+    # testing
+    for tf_dict in tf_dicts:
+        print(tf_dict.get('immediately'))
+
+    print()
+    print(idf_dict.get('immediately'))
 
 
 if __name__ == '__main__':
