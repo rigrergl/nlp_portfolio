@@ -50,6 +50,14 @@ def create_idf_dict(tf_dicts):
     return idf_dict
 
 
+def create_tf_idf(tf, idf):
+    tf_idf = {}
+    for t in tf.keys():
+        tf_idf[t] = tf[t] * idf[t]
+
+    return tf_idf
+
+
 def main():
     docs = []
     for i in range(1, 16):
@@ -66,12 +74,17 @@ def main():
     # make the idf dict
     idf_dict = create_idf_dict(tf_dicts)
 
-    # testing
+    # make the tf-idf dicts
+    tf_idf_dicts = []
     for tf_dict in tf_dicts:
-        print(tf_dict.get('immediately'))
+        tf_idf_dicts.append(create_tf_idf(tf_dict, idf_dict))
 
-    print()
-    print(idf_dict.get('immediately'))
+    # test tf-idf
+    doc_term_weights = sorted(tf_idf_dicts[0].items(), key=lambda x: x[1])
+    print(doc_term_weights[:5])
+
+    doc_term_weights = sorted(tf_idf_dicts[0].items(), key=lambda x: x[1], reverse=True)
+    print(doc_term_weights[:5])
 
 
 if __name__ == '__main__':
