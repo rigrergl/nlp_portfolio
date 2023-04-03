@@ -48,3 +48,13 @@ The code for this project includes the following python files:
 
 Instructions on how to run then Web Crawler locally can be found [here](Web-Crawler/readme.md). 
 
+## Text Classification
+Assignment Goals:
+- Gain experience with sklearn using text data
+- Gain experience with text classification
+
+What I did:
+- Used [this](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction) dataset to train models to classify a job posting as real or fraudulent
+- Tried Naive Bayes, Logistic Regression, and Neural networks using sklearn
+- Wrote up my analysis on the various approaches in the [notebook](Text-Classification/Text_Classification.ipynb)
+
