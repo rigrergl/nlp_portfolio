@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for storing compiled addons
+build/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+
+# macOS files
+.DS_Store
+
+# Visual Studio Code files
+.vscode/
+
+# Compiled output
+dist/
