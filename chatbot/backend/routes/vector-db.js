@@ -53,8 +53,9 @@ router.post("/write-data", async (req, res, next) => {
         let data = fs.readFileSync(filePath, 'utf8')
         data = JSON.parse(data);
 
-        for (let i = 0; i < 1; i++) {
+        for (let i = 0; i < data.length; i++) {
             const obj = data[i];
+            console.log(obj)
             await client.data.creator()
                 .withClassName('Chapter')
                 .withProperties({
@@ -63,7 +64,6 @@ router.post("/write-data", async (req, res, next) => {
                     chapterNumber: obj.id
                 })
                 .do()
-            await new Promise(resolve => setTimeout(resolve, 1000)); // Add a delay of 1 second
         }
 
         res.status(200).send('Objects added to database')
@@ -107,16 +107,19 @@ router.get("/get-all-objects", async (req, res, next) => {
 })
 
 router.get("/query", async (req, res, next) => {
-    const testText = "luffy meets zoro";
+    const testText = "63 years ago, Linlin's role in Carmel's disappearance caused her to be even more reviled by the giants, and caused a nearby Streusen to take interest in her. Together, Linlin and Streusen formed the beginnings of the Big Mom Pirates, and Linlin's power quickly caused her to become infamous at a young age. Linlin turned the island where the Sheep's House was into Whole Cake Island, where she sought to achieve Carmel's ideals. In the present, the Fire Tank Pirates shoot their KX Launchers at Big Mom, but the power of her scream destroys the shots before they hit her. The Big Mom Pirates then regain their composure, and Caesar attempts to fly in the mirror for the alliance to make a getaway, but Big Mom's scream shatters the mirror. Surrounded by enemies, Bege transforms into a giant fortress and tells his allies to get inside him.";
 
     const resText = await client.graphql.get()
         .withClassName('Chapter')
-        .withFields(['shortSummary'])
+        .withFields(['shortSummary', 'chapterNumber'])
         .withNearText({concepts: [testText]})
         .withLimit(1)
         .do()
     
-    console.log(resText.data.Get.Chapter[0].shortSummary)
+    const nearestChapter = resText.data.Get.Chapter[0]
+    res.json({
+        nearestChapter: nearestChapter 
+    })
 })
 
 router.get("/get-schema", async (req, res, next) => {
