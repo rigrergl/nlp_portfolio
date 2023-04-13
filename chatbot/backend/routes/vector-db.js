@@ -222,7 +222,7 @@ router.post("/query-book", async (req, res, next) => {
 
     const resText = await client.graphql.get()
         .withClassName('Book')
-        .withFields(['bookTitle', 'author', 'genres', 'summary'])
+        .withFields(['bookTitle', 'author', 'genres', 'summary', 'wikipediaArticleId'])
         .withNearText({
             concepts: search,
             moveAwayFrom: {
@@ -239,7 +239,8 @@ router.post("/query-book", async (req, res, next) => {
 
     const nearestBooks = resText.data.Get.Book.map(book => ({
         title: book.bookTitle,
-        author: book.title
+        author: book.title,
+        link: `https://en.wikipedia.org/wiki?curid=${book.wikipediaArticleId}`
     }))
     res.json({
         nearestBooks: nearestBooks
