@@ -38,18 +38,18 @@ router.post("/load-books", async (req, res, next) => {
 
 router.delete("/delete-book-class", async (req, res, next) => {
     await client.schema
-    .classDeleter()
-    .withClassName('Book')
-    .do()
+        .classDeleter()
+        .withClassName('Book')
+        .do()
 
     res.status(200).send('Book class deleted')
 })
 
 router.delete("/delete-chapter-class", async (req, res, next) => {
     await client.schema
-    .classDeleter()
-    .withClassName('Chapter')
-    .do()
+        .classDeleter()
+        .withClassName('Chapter')
+        .do()
 
     res.status(200).send('Chapter class deleted')
 })
@@ -217,16 +217,14 @@ router.get("/query", async (req, res, next) => {
     })
 })
 
-router.get("/query-book", async (req, res, next) => {
-    testSearch = ["artificial intelligence"]
-    const likes = ["hisorical fantasy", "history", "knights", "medieval", "magic", "tragedy", "sci fi", "futuristic"];
-    const dislikes = ["horror"]
+router.post("/query-book", async (req, res, next) => {
+    const { search, likes, dislikes } = req.body;
 
     const resText = await client.graphql.get()
         .withClassName('Book')
         .withFields(['bookTitle', 'author', 'genres', 'summary'])
-        .withNearText({ 
-            concepts: testSearch,
+        .withNearText({
+            concepts: search,
             moveAwayFrom: {
                 concepts: dislikes,
                 force: 0.45
@@ -234,7 +232,7 @@ router.get("/query-book", async (req, res, next) => {
             moveTo: {
                 concepts: likes,
                 force: 0.85
-            } 
+            }
         })
         .withLimit(10)
         .do()
@@ -244,7 +242,7 @@ router.get("/query-book", async (req, res, next) => {
         author: book.title
     }))
     res.json({
-        nearestBooks: nearestBooks 
+        nearestBooks: nearestBooks
     })
 })
 
