@@ -8,6 +8,101 @@ const client = weaviate.client({
     host: 'localhost:8080'
 });
 
+router.post("/load-books", async (req, res, next) => {
+    try {
+        const filePath = './public/book_summaries.json'
+        let data = fs.readFileSync(filePath, 'utf8')
+        data = JSON.parse(data);
+
+        for (let i = 0; i < data.length; i++) {
+            const obj = data[i];
+            console.log(i + "/" + data.length)
+            await client.data.creator()
+                .withClassName('Book')
+                .withProperties({
+                    wikipediaArticleId: obj.ID,
+                    bookTitle: obj.BookTitle,
+                    author: obj.Author,
+                    genres: obj.Genres.join(" "),
+                    summary: obj.clean_summary
+                })
+                .do()
+        }
+
+        res.status(200).send('Objects added to database')
+    } catch (err) {
+        console.log(err);
+        res.status(500).send('Error reading file')
+    }
+})
+
+router.delete("/delete-book-class", async (req, res, next) => {
+    await client.schema
+    .classDeleter()
+    .withClassName('Book')
+    .do()
+
+    res.status(200).send('Book class deleted')
+})
+
+router.delete("/delete-chapter-class", async (req, res, next) => {
+    await client.schema
+    .classDeleter()
+    .withClassName('Chapter')
+    .do()
+
+    res.status(200).send('Chapter class deleted')
+})
+
+router.post("/setup-book-schema", async (req, res, next) => {
+    const schemaConfig = {
+        'class': 'Book',
+        'description': 'A book',
+        'vectorizer': 'text2vec-contextionary',
+        "vectorIndexType": "hnsw",
+        'properties': [
+            {
+                'name': 'wikipediaArticleId',
+                'description': 'The wikipedia article ID for the book',
+                'dataType': ['string'],
+                'indexInverted': false // Ignore this property in search and classification
+            },
+            {
+                'name': 'bookTitle',
+                'description': 'title of the book',
+                'dataType': ['string']
+            },
+            {
+                'name': 'author',
+                'description': 'The name of the author',
+                'dataType': ['string'],
+            },
+            {
+                'name': 'genres',
+                'description': 'Space separated list of the genres of this book',
+                'dataType': ['string'],
+            },
+            {
+                'name': 'summary',
+                'description': 'Summary of the plot of this book',
+                'dataType': ['string'],
+            },
+        ],
+        "invertedIndexConfig": {
+            "stopwords": {
+                "preset": "en",
+            }
+        }
+    };
+
+    await client.schema
+        .classCreator()
+        .withClass(schemaConfig)
+        .do();
+
+    res.status(200).send('db successfully setup');
+})
+
 router.post("/setup-db", async (req, res, next) => {
     const schemaConfig = {
         'class': 'Chapter',
@@ -76,7 +171,7 @@ router.post("/write-data", async (req, res, next) => {
 router.get("/get-object-count", async (req, res, next) => {
     await client.graphql
         .aggregate()
-        .withClassName("Chapter")
+        .withClassName("Book")
         .withFields('meta { count }')
         .do()
         .then(res => {
@@ -112,13 +207,44 @@ router.get("/query", async (req, res, next) => {
     const resText = await client.graphql.get()
         .withClassName('Chapter')
         .withFields(['shortSummary', 'chapterNumber'])
-        .withNearText({concepts: [testText]})
+        .withNearText({ concepts: [testText] })
         .withLimit(1)
         .do()
-    
+
     const nearestChapter = resText.data.Get.Chapter[0]
     res.json({
-        nearestChapter: nearestChapter 
+        nearestChapter: nearestChapter
+    })
+})
+
+router.get("/query-book", async (req, res, next) => {
+    testSearch = ["artificial intelligence"]
+    const likes = ["hisorical fantasy", "history", "knights", "medieval", "magic", "tragedy", "sci fi", "futuristic"];
+    const dislikes = ["horror"]
+
+    const resText = await client.graphql.get()
+        .withClassName('Book')
+        .withFields(['bookTitle', 'author', 'genres', 'summary'])
+        .withNearText({ 
+            concepts: testSearch,
+            moveAwayFrom: {
+                concepts: dislikes,
+                force: 0.45
+            },
+            moveTo: {
+                concepts: likes,
+                force: 0.85
+            } 
+        })
+        .withLimit(10)
+        .do()
+
+    const nearestBooks = resText.data.Get.Book.map(book => ({
+        title: book.bookTitle,
+        author: book.title
+    }))
+    res.json({
+        nearestBooks: nearestBooks 
     })
 })
 
