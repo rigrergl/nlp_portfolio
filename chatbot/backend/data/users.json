@@ -1,0 +1,8 @@
+{
+    "zoro": {
+        "likedBooks": ["Harry Potter"],
+        "dislikedBooks": ["1984"],
+        "likedGenres": ["Fantasy"],
+        "dislikedGenres": ["Horror"]
+    }
+}
