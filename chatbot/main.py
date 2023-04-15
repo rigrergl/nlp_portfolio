@@ -99,14 +99,17 @@ def main():
 
     user_profile = get_user_profile(user_name)
 
-    likes = user_profile["likes"]
-    dislikes = user_profile["dislikes"]
-    print(f"\tAccording to my records, you like {likes}.\n\tAs far as I know, you dislike {dislikes}.")
-    print("\t Would you like to add any preferences?")
-    user_response = input("User: ")
-    should_add_preferences = parse_user_yes_no_response(user_response)
+    if user_profile["likes"] != "" and user_profile["dislikes"] != "":
+        likes = user_profile["likes"]
+        dislikes = user_profile["dislikes"]
+        print(f"\tAccording to my records, you like {likes}.\n\tAs far as I know, you dislike {dislikes}.")
+        print("\t Would you like to add any preferences?")
+        user_response = input("User: ")
+        should_add_preferences = parse_user_yes_no_response(user_response)
 
-    if should_add_preferences:
+        if should_add_preferences:
+            update_preferences(user_name, user_profile)
+    else:
         update_preferences(user_name, user_profile)
 
     make_recommendation(user_profile)
