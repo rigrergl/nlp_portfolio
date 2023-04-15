@@ -58,3 +58,16 @@ What I did:
 - Tried Naive Bayes, Logistic Regression, and Neural networks using sklearn
 - Wrote up my analysis on the various approaches in the [notebook](Text-Classification/Text_Classification.ipynb)
 
+## ChatBot
+Assignment Goals:
+- Create a chatbot using NLP techniques learned in class
+- The chatbot should be able to carry on a limited conversation in a particular domain using a knowledge base or
+knowledge from the web, and knowledge it learns from the user
+
+What I did:
+- Extracted information on over 12K book from [this](https://www.kaggle.com/datasets/ymaricar/cmu-book-summary-dataset) dataset. 
+- Used [weaviate](https://weaviate.io/) to store the text information about the books as vectors in a vector database
+- Created a ChatBot is integrated with [OpenAI's chat API](https://platform.openai.com/docs/guides/chat) to gather user preferences
+- Used the information gathered about the user to query the vector database and retrieve books that the user might like
+
+The code and report can be found [here](https://github.com/rigrergl/nlp_portfolio/tree/main/chatbot)
