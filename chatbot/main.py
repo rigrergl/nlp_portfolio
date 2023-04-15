@@ -36,8 +36,18 @@ def update_preferences(user_name, user_profile):
         "dislikes": user_profile["dislikes"]
     }
 
-    response = requests.post(API_URL + "/users/set-profile", data=data)
-    print(response)
+    requests.post(API_URL + "/users/set-profile", data=data)
+
+
+def fetch_nearest_books(user_profile, search):
+    data = {
+        "search": search,
+        "likes": user_profile["likes"],
+        "dislikes": user_profile["dislikes"]
+    }
+
+    response = requests.post(API_URL + "/vector-db/query-book", data=data)
+    return response.json()['nearestBooks']
 
 
 def main():
@@ -53,6 +63,12 @@ def main():
 
     print(f"Assistant: What kind of book are you interested in reading today?")
     user_search = input("User: ")
+
+    nearest_books = fetch_nearest_books(user_profile, user_search)
+    print("Assistant: Here are some book recommendations:\n")
+    for i in range(0, len(nearest_books)):
+        current_book = nearest_books[i]
+        print(i + 1, ":", current_book['title'], current_book["link"])
 
 
 if __name__ == "__main__":
