@@ -9,7 +9,21 @@ router.get('/get-profile', (req, res, _next) => {
   let data = fs.readFileSync(filePath, 'utf8')
   data = JSON.parse(data);
 
-  res.status(200).json(data[name])
+  if (data[name]) {
+    res.status(200).json(data[name])
+  } else { // new user
+    data[name] = {
+      likedBooks: [""],
+      dislikedBooks: [""],
+      likedGenres: [""],
+      dislikedGenres: [""]
+    }
+
+    let json = JSON.stringify(data)
+    fs.writeFileSync(filePath, json, 'utf8');
+
+    res.status(200).json(data[name])
+  }
 })
 
 module.exports = router;
