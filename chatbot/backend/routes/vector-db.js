@@ -255,4 +255,52 @@ router.get("/get-schema", async (req, res, next) => {
     })
 })
 
+router.post("/enhanced-book-query", async (req, res, _next) => {
+    const { likedBooks, likedGenres, likedAuthors } = req.body;
+    const query = `
+    {
+        Get {
+          Book(
+            where: {
+                operator: Or,
+                operands: [
+                    {
+                        path: ["author"]
+                        operator: Like,
+                        valueString: "${likedAuthors}"
+                    }
+                ]
+            }
+          ) {
+            bookTitle
+            author
+            genres
+            wikipediaArticleId
+          }
+        }
+      }
+      
+  `;
+
+    const response = await fetch('http://localhost:8080/v1/graphql', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ query }),
+    });
+
+    const data = await response.json();
+    console.log(data)
+
+    const nearestBooks = data.data.Get.Book.map(book => ({
+        title: book.bookTitle,
+        author: book.title,
+        link: `https://en.wikipedia.org/wiki?curid=${book.wikipediaArticleId}`
+    }))
+    res.json({
+        nearestBooks: nearestBooks
+    })
+})
+
 module.exports = router;
