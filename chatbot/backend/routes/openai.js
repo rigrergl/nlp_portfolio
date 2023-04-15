@@ -25,4 +25,23 @@ router.get("/completion", async (req, res, next) => {
     res.status(200)
 })
 
+router.post("/extract-name", async (req, res, _next) => {
+    const { userInput } = req.body
+
+    chatRes = await openai.createChatCompletion({
+        model: "gpt-3.5-turbo",
+        messages: [{role: "user", content: `Extract the user's name from the following message: "${userInput}"
+        Answer only with the user's name.
+        
+        User name: `}]
+    })
+
+    let name = chatRes.data.choices[0].message.content;
+    name = name.toLowerCase()
+   
+    res.status(200).json({
+        name: name
+    })
+})
+
 module.exports = router;

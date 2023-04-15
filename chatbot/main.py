@@ -1,18 +1,16 @@
-import en_core_web_sm
 import string
 import requests
 
 API_URL = "http://localhost:3000"
-nlp = en_core_web_sm.load()
 
 
 def extract_name(text):
-    doc = nlp(text)
+    data = {
+        "userInput": text
+    }
+    response = requests.post(API_URL + "/openai/extract-name", data=data)
 
-    for ent in doc.ents:
-        if ent.label_ == "PERSON":
-            return ent.text.lower()
-    return "no_name"
+    return response.json()["name"]
 
 
 def get_user_profile(user_name):
