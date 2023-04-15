@@ -13,10 +13,8 @@ router.get('/get-profile', (req, res, _next) => {
     res.status(200).json(data[name])
   } else { // new user
     data[name] = {
-      likedBooks: [""],
-      dislikedBooks: [""],
-      likedGenres: [""],
-      dislikedGenres: [""]
+      likes: "",
+      dislikes: ""
     }
 
     let json = JSON.stringify(data)
@@ -24,6 +22,24 @@ router.get('/get-profile', (req, res, _next) => {
 
     res.status(200).json(data[name])
   }
+})
+
+router.post('/set-profile', (req, res, _next) => {
+  const { name, likes, dislikes } = req.body;
+
+  const filePath = './data/users.json'
+  let data = fs.readFileSync(filePath, 'utf8')
+  data = JSON.parse(data)
+
+  data[name] = {
+    likes: likes,
+    dislikes: dislikes
+  }
+
+  const json = JSON.stringify(data);
+  fs.writeFileSync(filePath, json, 'utf8')
+
+  res.status(200).send('User modified');
 })
 
 module.exports = router;

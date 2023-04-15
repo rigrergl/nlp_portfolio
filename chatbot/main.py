@@ -3,10 +3,10 @@ import string
 import requests
 
 API_URL = "http://localhost:3000"
+nlp = en_core_web_sm.load()
 
 
 def extract_name(text):
-    nlp = en_core_web_sm.load()
     doc = nlp(text)
 
     for ent in doc.ents:
@@ -20,6 +20,26 @@ def get_user_profile(user_name):
     return response.json()
 
 
+def update_preferences(user_name, user_profile):
+    print(f"Assistant: What are some books, authors, or genres you like?")
+    new_user_likes = input("User: ")
+
+    print(f"Assistant: What are some books, authors, or genres you dislike?")
+    new_user_dislikes = input("User: ")
+
+    user_profile["likes"] += " " + new_user_likes
+    user_profile["dislikes"] += " " + new_user_dislikes
+
+    data = {
+        "name": user_name,
+        "likes": user_profile["likes"],
+        "dislikes": user_profile["dislikes"]
+    }
+
+    response = requests.post(API_URL + "/users/set-profile", data=data)
+    print(response)
+
+
 def main():
     print("Assistant: Hello, what is your name?")
     user_response = input("User: ")
@@ -28,7 +48,11 @@ def main():
     print(f"Assistant: Hello {string.capwords(user_name)}")
 
     user_profile = get_user_profile(user_name)
-    print(user_profile)
+
+    update_preferences(user_name, user_profile)
+
+    print(f"Assistant: What kind of book are you interested in reading today?")
+    user_search = input("User: ")
 
 
 if __name__ == "__main__":
