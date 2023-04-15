@@ -44,4 +44,47 @@ router.post("/extract-name", async (req, res, _next) => {
     })
 })
 
+router.post("/extract-preference-list", async (req, res, _next) => {
+    const { userInput } = req.body;
+
+    chatRes = await openai.createChatCompletion({
+        model: "gpt-3.5-turbo",
+        messages: [{role: "user", content: `Can you cleanup the user's preferences to be a comma-separated list of values:
+        "${userInput}"
+        
+        output only the comma separated list and nothing else. No commas
+        For example,  for "I dislike romance  and comedy, as well as mystery" you output should be:
+        List: Romance, comedy, mystery
+        
+        List: `}]
+    })
+
+    const preferences = chatRes.data.choices[0].message.content;
+
+    res.status(200).json({
+        preferences: preferences
+    })
+})
+
+router.post("/clean-search", async (req, res, _next) => {
+    const { userInput } = req.body;
+
+    chatRes = await openai.createChatCompletion({
+        model: "gpt-3.5-turbo",
+        messages: [{role: "user", content: `can you clean the following user input, which is their answer to what they are looking for in a book. I need the user input to be cleaned up to get the best results when I put it as a query to a vector database containing plot summaries of many different books.
+        Please output the query and nothing else. Please separate concepts using commas.
+        
+        Raw user input:
+        "${userInput}"
+        
+        Query:`}]
+    });
+
+    const cleanSearch = chatRes.data.choices[0].message.content;
+
+    res.status(200).json({
+        cleanSearch: cleanSearch
+    })
+})
+
 module.exports = router;

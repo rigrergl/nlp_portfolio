@@ -218,7 +218,11 @@ router.get("/query", async (req, res, next) => {
 })
 
 router.post("/query-book", async (req, res, next) => {
-    const { search, likes, dislikes } = req.body;
+    let { search, likes, dislikes } = req.body;
+    
+    search = search || "none";
+    likes = likes || "none";
+    dislikes = dislikes || "none";
 
     const resText = await client.graphql.get()
         .withClassName('Book')
@@ -227,11 +231,11 @@ router.post("/query-book", async (req, res, next) => {
             concepts: search,
             moveAwayFrom: {
                 concepts: dislikes,
-                force: 0.45
+                force: 0.85
             },
             moveTo: {
                 concepts: likes,
-                force: 0.85
+                force: 0.95
             }
         })
         .withLimit(10)
@@ -239,7 +243,7 @@ router.post("/query-book", async (req, res, next) => {
 
     const nearestBooks = resText.data.Get.Book.map(book => ({
         title: book.bookTitle,
-        author: book.title,
+        author: book.author,
         link: `https://en.wikipedia.org/wiki?curid=${book.wikipediaArticleId}`
     }))
     res.json({

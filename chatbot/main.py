@@ -18,15 +18,35 @@ def get_user_profile(user_name):
     return response.json()
 
 
+def clean_preferences(raw_user_input):
+    data = {
+        "userInput": raw_user_input
+    }
+    response = requests.post(API_URL + f"/openai/extract-preference-list", data=data)
+
+    return response.json()["preferences"]
+
+
+def clean_search(raw_user_input):
+    data = {
+        "userInput": raw_user_input
+    }
+    response = requests.post(API_URL + f"/openai/clean-search", data=data)
+
+    return response.json()["cleanSearch"]
+
+
 def update_preferences(user_name, user_profile):
     print(f"Assistant: What are some books, authors, or genres you like?")
     new_user_likes = input("User: ")
+    new_user_likes = clean_preferences(new_user_likes)
 
     print(f"Assistant: What are some books, authors, or genres you dislike?")
     new_user_dislikes = input("User: ")
+    new_user_dislikes = clean_preferences(new_user_dislikes)
 
-    user_profile["likes"] += " " + new_user_likes
-    user_profile["dislikes"] += " " + new_user_dislikes
+    user_profile["likes"] += ", " + new_user_likes
+    user_profile["dislikes"] += ", " + new_user_dislikes
 
     data = {
         "name": user_name,
@@ -51,12 +71,13 @@ def fetch_nearest_books(user_profile, search):
 def make_recommendation(user_profile):
     print(f"Assistant: What kind of book are you interested in reading today?")
     user_search = input("User: ")
+    user_search = clean_search(user_search)
 
     nearest_books = fetch_nearest_books(user_profile, user_search)
-    print("Assistant: Here are some book recommendations:\n")
+    print("Assistant: Here are some book recommendations:")
     for i in range(0, len(nearest_books)):
         current_book = nearest_books[i]
-        print(i + 1, ":", current_book['title'], current_book["link"])
+        print(i + 1, ":", current_book['title'], "by", current_book["author"], current_book["link"])
 
 
 def main():
