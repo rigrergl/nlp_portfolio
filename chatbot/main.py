@@ -45,8 +45,8 @@ def update_preferences(user_name, user_profile):
     new_user_dislikes = input("User: ")
     new_user_dislikes = clean_preferences(new_user_dislikes)
 
-    user_profile["likes"] += ", " + new_user_likes
-    user_profile["dislikes"] += ", " + new_user_dislikes
+    user_profile["likes"] += " " + new_user_likes
+    user_profile["dislikes"] += " " + new_user_dislikes
 
     data = {
         "name": user_name,
@@ -80,6 +80,16 @@ def make_recommendation(user_profile):
         print(i + 1, ":", current_book['title'], "by", current_book["author"], current_book["link"])
 
 
+def parse_user_yes_no_response(raw_user_input):
+    """Returns True if user response evaluates to yes"""
+    data = {
+        "userInput": raw_user_input
+    }
+    response = requests.post(API_URL + f"/openai/get-yes-no", data=data)
+
+    return response.json()["isYes"]
+
+
 def main():
     print("Assistant: Hello, what is your name?")
     user_response = input("User: ")
@@ -89,7 +99,15 @@ def main():
 
     user_profile = get_user_profile(user_name)
 
-    update_preferences(user_name, user_profile)
+    likes = user_profile["likes"]
+    dislikes = user_profile["dislikes"]
+    print(f"\tAccording to my records, you like {likes}.\n\tAs far as I know, you dislike {dislikes}.")
+    print("\t Would you like to add any preferences?")
+    user_response = input("User: ")
+    should_add_preferences = parse_user_yes_no_response(user_response)
+
+    if should_add_preferences:
+        update_preferences(user_name, user_profile)
 
     make_recommendation(user_profile)
 

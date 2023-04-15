@@ -87,4 +87,24 @@ router.post("/clean-search", async (req, res, _next) => {
     })
 })
 
+router.post("/get-yes-no", async (req, res, _next) => {
+    const { userInput } = req.body;
+
+    chatRes = await openai.createChatCompletion({
+        model: "gpt-3.5-turbo",
+        messages: [{role: "user", content: `can you evaluate the following user input as rather a "Yes" or "No". Your output should be only one word and nothing else. Please do not include any punctuation.
+
+        Raw user input:
+        "${userInput}"
+        
+        Yes or No:`}]
+    });
+
+    const isYes = chatRes.data.choices[0].message.content.toLowerCase() === "yes";
+
+    res.status(200).json({
+        isYes: isYes
+    })
+})
+
 module.exports = router;
