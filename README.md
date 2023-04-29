@@ -1,6 +1,8 @@
 # nlp_portfolio
 A collection of projects to help me learn about Natural Language Processing.
 
+For a list of the technical and soft skills I've learned through this NLP portfolio, please check out my [resume page](https://github.com/rigrergl/nlp_portfolio/blob/main/NLP-Resume.md), where I highlight my experience in various NLP techniques and concepts, as well as my soft skills in presenting experiments and research findings, scheduling, time and project management, and analytical thinking
+
 ## Assignment 0
 Introduction document summarizing historical and current approaches to NLP, as well as a reflection on my personal interest in NLP.
 
