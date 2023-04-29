@@ -58,6 +58,17 @@ What I did:
 - Tried Naive Bayes, Logistic Regression, and Neural networks using sklearn
 - Wrote up my analysis on the various approaches in the [notebook](Text-Classification/Text_Classification.ipynb)
 
+## ACL Paper Summary
+Assignment Goals:
+- Get familiar with reading ACL Papers
+- Learn how to stay updated with the rapidly evolving field of NLP
+
+What I did:
+- Read the following [paper](https://aclanthology.org/2022.acl-long.538/)
+- Wrote up an analysis on the authors' findings and contributions
+
+The paper analysis can be found [here](https://github.com/rigrergl/nlp_portfolio/blob/main/ACL%20Paper%20Summary.pdf)
+
 ## Text Classification 2
 Assignment Goals:
 - Gain experience with Keras
