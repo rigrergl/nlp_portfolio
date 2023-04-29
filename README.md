@@ -6,7 +6,7 @@ For a list of the technical and soft skills I've learned through this NLP portfo
 ## TL:DR
 I am enthusiastic about Natural Language Processing (NLP) and have developed a strong set of skills through my NLP portfolio. I have gained experience in various NLP techniques and concepts, including text processing, Part of Speech (POS) tagging, language modeling, web scraping, and deep learning models, to name a few. I have also developed my soft skills in presenting experiments and research findings, scheduling, time and project management, and analytical thinking.
 
-Moving forward, I plan to continue exploring NLP techniques and stay up-to-date with the rapidly changing field by reading research papers and engaging with online communities. I am also excited to work on personal projects that apply my NLP skills to real-world problems. If you are interested in my skills and experience and have any potential employment opportunities or collaborations, please do not hesitate to reach out to me.
+Moving forward, I plan to continue exploring NLP techniques and stay up-to-date with the rapidly changing field by reading research papers and engaging with online communities. I am also excited to work on personal projects that apply my NLP skills to real-world problems. If you are interested in my skills and experience and have any potential employment opportunities or collaborations, please do not hesitate to reach out to me by filling out this [form](https://forms.gle/Xervef2SmPriGsfm7).
 
 ## Assignment 0
 Introduction document summarizing historical and current approaches to NLP, as well as a reflection on my personal interest in NLP.
