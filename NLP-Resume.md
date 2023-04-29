@@ -18,6 +18,7 @@ My personal website and more information about me can be found [here](https://ri
 - Deep learning models, including RNN and various types of CNN with different embedding techniques
 - Reading and analyzing research papers to stay updated with the latest advancements in NLP
 - Applying NLP knowledge to create a chatbot capable of carrying on a limited conversation in a specific domain using a knowledge base and information gathered from the user
+- Working with Vector Database and integrating them with Large Language Models such as ChatGPT to provide a more meaningful and personalized user experience
 
 ## Soft Skills
 - Ability to present experiments and research findings in a concise and informative way
