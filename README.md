@@ -48,7 +48,7 @@ The code for this project includes the following python files:
 
 Instructions on how to run then Web Crawler locally can be found [here](Web-Crawler/readme.md). 
 
-## Text Classification
+## Text Classification 1 
 Assignment Goals:
 - Gain experience with sklearn using text data
 - Gain experience with text classification
@@ -57,6 +57,21 @@ What I did:
 - Used [this](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction) dataset to train models to classify a job posting as real or fraudulent
 - Tried Naive Bayes, Logistic Regression, and Neural networks using sklearn
 - Wrote up my analysis on the various approaches in the [notebook](Text-Classification/Text_Classification.ipynb)
+
+## Text Classification 2
+Assignment Goals:
+- Gain experience with Keras
+- Gain experience with text classificatiom
+- Gain experience with deep learning model variations and embeddings
+
+What I did:
+- Experimented with several approaches to train a classifier model
+- Tried basic sequential model
+- Trained a Recurrent Neural Network (RNN)
+- Trained a few variations on a Convolutional Neural Network (CNN) with different embedding techniques
+- Evaluated and analysed the results, comparing the performance of each model
+
+Notebook containing the code can be found [here](https://github.com/rigrergl/nlp_portfolio/blob/main/Text-Classification-2/Text-Classification-2.ipynb)
 
 ## ChatBot
 Assignment Goals:
